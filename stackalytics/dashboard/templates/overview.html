@@ -18,14 +18,26 @@
 {% set show_module_details = (module) %}
 {% set show_review_ratio = (metric in ['marks']) %}
 
+{% macro format_releases(release) -%}
+    {% if release != "all" %}{{ release|capitalize }} release{% else %}all releases{% endif %}
+{%- endmacro %}
+
 {% macro show_report_links(module=None, company=None, user_id=None) -%}
     {% if module %}
         <div><b><a href="/report/reviews/{{ module }}/open" target="_blank">Show open reviews for {{ module_inst.module_group_name }}</a></b></div>
-        <div><b><a href="/report/contribution/{{ module }}/30" target="_blank">Contribution for the last 30 days in {{ module_inst.module_group_name }}</a></b></div>
-        <div><b><a href="/report/contribution/{{ module }}/90" target="_blank">Contribution for the last 90 days in {{ module_inst.module_group_name }}</a></b></div>
+        <div><b><a href="/report/contribution?module={{ module }}&days=30" target="_blank">Contribution for the last 30 days in {{ module_inst.module_group_name }}</a></b></div>
+        <div><b><a href="/report/contribution?module={{ module }}&days=90" target="_blank">Contribution for the last 90 days in {{ module_inst.module_group_name }}</a></b></div>
+        {% if company %}
+            <div><b><a href="/report/contribution?company={{ company }}&release={{ release }}&module={{ module }}" target="_blank">{{ company_original }} contribution in {{ module_inst.module_group_name }} during {{ format_releases(release) }}</a></b></div>
+        {% else %}
+            <div><b><a href="/report/contribution?release={{ release }}&module={{ module }}" target="_blank">Contribution in {{ module_inst.module_group_name }} during {{ format_releases(release) }}</a></b></div>
+        {% endif %}
         <div><b><a href="/report/activity?module={{ module }}&project_type={{ project_type }}&release={{ release }}" target="_blank">Show activity report for {{ module }}</a></b></div>
     {% endif %}
     {% if company %}
+        {% if not module %}
+            <div><b><a href="/report/contribution?company={{ company }}&release={{ release }}" target="_blank">{{ company_original }} contribution during {{ format_releases(release) }}</a></b></div>
+        {% endif %}
         <div><b><a href="/report/companies/{{ company }}" target="_blank">Show activity report for {{ company_original }}</a></b></div>
     {% endif %}
     {% if user_id %}

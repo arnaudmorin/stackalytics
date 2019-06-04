@@ -1,6 +1,6 @@
 {% extends "reports/base_report.html" %}
 
-{% set page_title = "Contribution into " + module + " during the recent " + days + " days" %}
+{% set page_title = title %}
 
 {% block scripts %}
     <script type="text/javascript">
@@ -21,6 +21,24 @@
                 return ((a < b) ? 1 : ((a > b) ? -1 : 0));
             }
         });
+        var params = {
+            'metric': 'marks',
+            'project_type': 'all',
+            'release': 'all',
+        }
+        {% if module %}
+            params['module'] = "{{ module|safe }}";
+        {% endif %}
+        {% if company %}
+            params['company'] = "{{ company|safe }}";
+        {% endif %}
+        {% if release %}
+            params['release'] = "{{ release }}";
+        {% endif %}
+        {% if days %}
+            params['days'] = "{{ days }}";
+            params['start_date'] = "{{ start_date }}";
+        {% endif %}
 
         $(document).ready(function () {
             var table_column_names = ["index", "link", "metric", "-2", "-1", "1", "2", "A", "x", "positive_ratio", "disagreements", "disagreement_ratio",
@@ -28,7 +46,7 @@
             var table_id = "review_stats_table";
 
             $.ajax({
-                url: makeURI("/api/1.0/stats/engineers_extended?project_type=all&metric=marks&module={{ module }}&release=all&start_date={{ start_date }}"),
+                url: makeURI("/api/1.0/stats/engineers_extended", params),
                 dataType: "json",
                 success: function (data) {
                     var tableData = data["stats"];
@@ -122,6 +140,7 @@
         }
     </style>
 
+{% if days %}
 <script id="review_summary_template" type="text/x-jquery-tmpl">
 <h2>Review Summary</h2>
 <div>Total reviews: <b>${marks}</b> (${(marks / {{ days }}).toFixed(1) } per day)</div>
@@ -134,11 +153,12 @@
 <div>Commits: <b>${commits}</b> (${(commits / {{ days }}).toFixed(1) } per day)</div>
 <div>Emails: <b>${emails}</b> (${(emails / {{ days }}).toFixed(1) } per day)</div>
 </script>
+{% endif %}
 
 {% endblock %}
 
 {% block content %}
-<h1>Contribution into {{ module }} for the last {{ days }} days</h1>
+<h1>{{ title }}</h1>
 
     <table id="review_stats_table">
         <thead>
