@@ -194,6 +194,45 @@ def get_activity(records, start_record, page_size, query_message=None):
     return result
 
 
+def week_to_timestamp(week):
+    return week * 7 * 24 * 3600 + 3 * 24 * 3600
+
+
+def get_commits_by_week(records):
+    raw_weeks = _get_commits_by_week(records)
+    dict_weeks = [
+        {'w': week_to_timestamp(k), 'c': raw_weeks[k]}
+        for k in raw_weeks
+    ]
+    sorted_weeks = sorted(dict_weeks, key=lambda w: w['w'])
+
+    result = {
+        'total': sum(raw_weeks.values()),
+        'weeks': sorted_weeks}
+    return result
+
+
+def _get_commits_by_week(record_iterator):
+    records = list(record_iterator)
+    weeks = {}
+
+    if len(records) == 0:
+        return weeks
+
+    max_week = min_week = records[0].week
+    for record in records:
+        week = record.week
+        min_week = min(min_week, week)
+        max_week = max(max_week, week)
+        weeks[week] = weeks.get(week, 0) + 1
+
+    for week in range(min_week, max_week + 1):
+        if week not in weeks:
+            weeks[week] = 0
+
+    return weeks
+
+
 def get_contribution_summary(records):
     marks = dict((m, 0) for m in [-2, -1, 0, 1, 2, 'A', 'WIP', 'x', 's'])
     commit_count = 0

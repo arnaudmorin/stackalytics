@@ -266,6 +266,15 @@ def get_activity_json(records, **kwargs):
                                 query_message)
 
 
+@app.route('/api/1.0/commits_by_week')
+@decorators.exception_handler()
+@decorators.response()
+@decorators.jsonify('stats')
+@decorators.record_filter()
+def get_commits_by_week(records, **kwargs):
+    return helpers.get_commits_by_week(records)
+
+
 @app.route('/api/1.0/contribution')
 @decorators.exception_handler()
 @decorators.response()
