@@ -356,7 +356,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/tag/0.2.0/reference/projects.yaml"
                 }
             },
             "project": "openstack"
@@ -367,7 +367,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/tag/0.3.0/reference/projects.yaml"
                 }
             },
             "project": "openstack"
@@ -378,7 +378,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/tag/0.4.0/reference/projects.yaml"
                 }
             },
             "project": "openstack"
@@ -389,7 +389,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/tag/0.5.0/reference/projects.yaml"
                 }
             },
             "project": "openstack"
@@ -400,7 +400,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/tag/0.6.0/reference/projects.yaml"
                 }
             },
             "project": "openstack"
