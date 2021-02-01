@@ -522,12 +522,13 @@ class RecordProcessor(object):
                           "of key error %s" % (record, e))
 
     def _update_records_with_releases(self, release_index):
+        yield lambda record: None
         LOG.info('Update records with releases')
 
         def record_handler(record):
             if (record['record_type'] == 'commit'
-                    and record['primary_key'] in release_index):
-                release = release_index[record['primary_key']]
+                    and record['commit_id'] in release_index):
+                release = release_index[record['commit_id']]
             else:
                 release = self._get_release(record['date'])
 
@@ -584,7 +585,7 @@ class RecordProcessor(object):
                         if old_date != change_id_to_date[change_id]:
                             record['date'] = change_id_to_date[change_id]
                             force_update_release = (
-                                record['primary_key'] not in release_index
+                                record['commit_id'] not in release_index
                             )
                             self._renew_record_date(record,
                                                     force_update_release)
