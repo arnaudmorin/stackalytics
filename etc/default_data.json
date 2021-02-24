@@ -31189,6 +31189,17 @@
             "emails": ["sunku.ranganath@intel.com"]
         },
         {
+            "github_id": "sunpers-vm",
+            "companies": [
+                {
+                    "company_name": "VMware",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zhongyan Sun",
+            "emails": ["szhongyuan@vmware.com"]
+        },
+        {
             "launchpad_id": "surendra1904",
             "companies": [
                 {
