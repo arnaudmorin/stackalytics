@@ -19779,6 +19779,18 @@
             "emails": ["liumk@rc.inesa.com"]
         },
         {
+            "github_id": "liupeng0518",
+            "launchpad_id": "liupeng0518",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Samuel Liu",
+            "emails": ["liupeng0518@gmail.com"]
+        },
+        {
             "launchpad_id": "liuqing",
             "companies": [
                 {
