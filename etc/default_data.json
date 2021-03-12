@@ -32155,10 +32155,19 @@
             "emails": ["tlashchova@mirantis.com", "tlashchova@gmail.com", "holkina@selectel.ru"]
         },
         {
+            "github_id": "xtmprsqzntwlfb",
             "launchpad_id": "tmazur",
             "companies": [
                 {
                     "company_name": "Mirantis",
+                    "end_date": "2016-Oct-10"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Oct-31"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
