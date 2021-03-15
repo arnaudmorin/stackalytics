@@ -17460,6 +17460,17 @@
             "emails": ["kalyani030592@gmail.com", "rnq797@my.utsa.edu"]
         },
         {
+            "launchpad_id": "kamlesh.chauvhan",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kamlesh Chauvhan",
+            "emails": ["kamlesh_chauvhan@dellteam.com", "kamlesh.chauvhan@gmail.com"]
+        },
+        {
             "launchpad_id": "kanaderohan",
             "companies": [
                 {
