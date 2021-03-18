@@ -43368,11 +43368,6 @@
             "uri": "https://github.com/gardener/homebrew-tap.git"
         },
         {
-            "module": "hub@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/hub.git"
-        },
-        {
             "module": "hvpa-controller@gardener",
             "organization": "gardener",
             "uri": "https://github.com/gardener/hvpa-controller.git"
