@@ -7872,6 +7872,18 @@
             "emails": ["danny.al-gaaf@bisect.de"]
         },
         {
+          "launchpad_id": "danny-massa",
+          "github_id": "dannymassa",
+          "companies": [
+              {
+                  "company_name": "AT&T",
+                  "end_date": null
+              }
+          ],
+          "user_name": "Danny Massa",
+          "emails": ["dan.massa@outlook.com", "daniel.massa@att.com"]
+        },
+        {
             "launchpad_id": "danwent",
             "companies": [
                 {
