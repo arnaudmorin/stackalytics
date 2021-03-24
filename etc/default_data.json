@@ -36908,6 +36908,17 @@
             "emails": ["zaro0508@gmail.com"]
         },
         {
+            "github_id": "zc2638",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ce Zheng",
+            "emails": ["ce.zheng@daocloud.io", "zc2638@qq.com", "zc2638@gmail.com"]
+        },
+        {
             "launchpad_id": "zdd",
             "companies": [
                 {
