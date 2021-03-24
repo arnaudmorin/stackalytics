@@ -26738,6 +26738,21 @@
             "emails": ["rexlee8776@gmail.com"]
         },
         {
+            "launchpad_id": "rfayan",
+            "companies": [
+                {
+                    "company_name": "Logicalis",
+                    "end_date": "2020-Mar-15"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rafael Fayan",
+            "emails": ["rafaelfayan@gmail.com", "rfayan@daitan.com"]
+        },
+        {
             "launchpad_id": "rh-s",
             "companies": [
                 {
@@ -39716,6 +39731,10 @@
         {
             "domains": ["lockheed.com"],
             "company_name": "Lockheed Martin"
+        },
+        {
+            "domains": ["logicalis.com"],
+            "company_name": "Logicalis"
         },
         {
             "domains": ["lsd.ufcg.edu.br"],
