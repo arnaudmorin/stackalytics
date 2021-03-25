@@ -51,6 +51,7 @@ Project Info
 ------------
 
  * Web-site: http://stackalytics.com/
+ * Alternative web-site: http://stackalytics.io/
  * Source Code: https://opendev.org/x/stackalytics
  * Wiki: https://wiki.openstack.org/wiki/Stackalytics
  * Launchpad: https://launchpad.net/stackalytics
