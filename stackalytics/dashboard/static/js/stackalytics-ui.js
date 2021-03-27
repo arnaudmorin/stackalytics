@@ -370,6 +370,8 @@ function extendWithGravatar(record, image_size) {
     var gravatar = "stackalytics";
     if (record.author_email) {
         gravatar = record.author_email;
+    } else if (record.gravatar_email) {
+        gravatar = record.gravatar_email;
     } else if (record.emails && record.emails.length > 0) {
         gravatar = record.emails[0];
     } else if (record.user_id) {

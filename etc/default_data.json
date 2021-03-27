@@ -3530,6 +3530,7 @@
                     "end_date": null
                 }
             ],
+            "gravatar_email": "anost1986@gmail.com",
             "user_name": "Andrii Ostapenko",
             "emails": ["aostapenko@mirantis.com", "andrey_ostapenko@symantec.com", "ao129q@att.com",
                        "andrii.ostapenko@att.com", "anost1986@gmail.com", "aostapenko@stackalytics.io"]

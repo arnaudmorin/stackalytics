@@ -36,6 +36,9 @@ default_data = {
                     "user_name": {
                         "type": "string"
                     },
+                    "gravatar_email": {
+                        "type": "string"
+                    },
                     "emails": {
                         "type": "array",
                         "items": {
