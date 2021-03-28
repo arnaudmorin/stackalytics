@@ -7,7 +7,7 @@
             dataType: "json",
             success: function (data) {
                 var user = data["user"];
-                extendWithGravatar(user, 64);
+                extendWithGravatar(user, 192);
                 $("#user_profile_template").tmpl(data["user"]).appendTo("#user_profile_container");
             }
         });
@@ -22,8 +22,8 @@
 <script id="user_profile_template" type="text/x-jquery-tmpl">
     {% raw %}
     <div>
-        <div style="float: left;"><img src="${gravatar}"></div>
-        <div style="margin-left: 90px;">
+        <div style="float: left;"><a href="https://wiki.openstack.org/wiki/Stackalytics#Avatars"><img src="${gravatar}"></a></div>
+        <div style="margin-left: 218px;">
             <h2>${user_name}</h2>
             <div>Company: <a href="{%html company_link.uri %}">{%html company_link.title %}</a>
                     [<span style="font-style: italic;"><a

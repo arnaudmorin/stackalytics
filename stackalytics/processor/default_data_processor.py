@@ -193,6 +193,7 @@ def _update_project_list(default_data):
 
 def _store_users(runtime_storage_inst, users):
     for user in users:
+        user['gravatar_email'] = user['emails'][0]
         stored_user = user_processor.load_user(runtime_storage_inst,
                                                user_id=user['user_id'])
         updated_user = user_processor.update_user_profile(stored_user, user)
