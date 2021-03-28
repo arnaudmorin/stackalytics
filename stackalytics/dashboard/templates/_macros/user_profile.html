@@ -22,7 +22,7 @@
 <script id="user_profile_template" type="text/x-jquery-tmpl">
     {% raw %}
     <div>
-        <div style="float: left;"><a href="https://wiki.openstack.org/wiki/Stackalytics#Avatars"><img src="${gravatar}"></a></div>
+        <div style="float: left;"><a href="https://wiki.openstack.org/wiki/Stackalytics#Avatars" target="_blank"><img src="${gravatar}"></a></div>
         <div style="margin-left: 218px;">
             <h2>${user_name}</h2>
             <div>Company: <a href="{%html company_link.uri %}">{%html company_link.title %}</a>
@@ -64,6 +64,6 @@
     {% endraw %}
 </script>
 
-<div id="user_profile_container" style="margin-bottom: 2em;"></div>
+<div id="user_profile_container" style="margin-bottom: 2em; min-height: 256px"></div>
 
 {%- endmacro %}
