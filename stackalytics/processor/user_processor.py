@@ -217,7 +217,7 @@ def merge_user_profiles(domains_index, user_profiles):
 
     # collect ordinary fields
     for key in ['seq', 'user_name', 'user_id', 'github_id', 'launchpad_id',
-                'companies', 'static', 'zanata_id']:
+                'companies', 'static', 'zanata_id', 'gravatar_email']:
         value = next((v.get(key) for v in user_profiles if v.get(key)),
                      None)
         if value:
