@@ -16044,6 +16044,17 @@
             "emails": ["lawrancejing@gmail.com", "jing.liuqing@99cloud.net"]
         },
         {
+            "github_id": "jinglina",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nana Jing",
+            "emails": ["jinglinax@163.com"]
+        },
+        {
             "launchpad_id": "jinyuanliu",
             "companies": [
                 {
@@ -20312,6 +20323,17 @@
             ],
             "user_name": "Lucas Ponce",
             "emails": ["lponce@redhat.com"]
+        },
+        {
+            "github_id":"luckymrwang",
+            "companies":[
+                {
+                    "company_name":"Inspur",
+                    "end_date":null
+                }
+            ],
+            "user_name":"Cookie Wang",
+            "emails":["luckymrwang@163.com"]
         },
         {
             "launchpad_id": "luckyvega-g",
@@ -28599,6 +28621,17 @@
             ],
             "user_name": "sayantani goswami",
             "emails": ["sayantani.goswami@intel.com"]
+        },
+        {
+            "github_id": "sayicui",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sayi Cui",
+            "emails": ["510256563@qq.com"]
         },
         {
             "launchpad_id": "sbadia",
