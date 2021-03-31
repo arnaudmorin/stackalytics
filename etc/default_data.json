@@ -45174,7 +45174,7 @@
     "project_sources": [
         {
             "organization": "openstack",
-            "pattern": "^(openstack|x)/.*",
+            "pattern": "^(openstack|openstack-infra|inspur|osf|x)/.*",
             "exclude": [
                 "openstack", "gantt", "python-ganttclient", "deb-alembic", "deb-aodh", "deb-bandit", "deb-barbican",
                 "deb-ceilometer", "deb-ceilometermiddleware", "deb-cinder", "deb-congress", "deb-designate",
@@ -45269,15 +45269,6 @@
         },
         {
             "organization": "airship"
-        },
-        {
-            "organization": "openstack-dev"
-        },
-        {
-            "organization": "openstack-infra"
-        },
-        {
-            "organization": "openstack-ops"
         },
         {
             "organization": "cloudfoundry",
@@ -46018,7 +46009,7 @@
         {
             "id": "all",
             "title": "OpenStack",
-            "modules": ["openstack", "openstack-infra", "openstack-dev", "unknown"]
+            "modules": ["openstack", "airship", "unknown"]
         },
         {
             "id": "openstack",
@@ -46036,10 +46027,16 @@
             "modules": ["tc:approved-release"]
         },
         {
+            "id": "airship-type",
+            "title": "Airship",
+            "child": true,
+            "modules": ["airship"]
+        },
+        {
             "id": "openstack-others",
             "title": "Others",
             "child": true,
-            "modules": ["openstack-others", "airship-group", "unknown"]
+            "modules": ["openstack-others", "unknown"]
         },
         {
             "id": "cncf-group",
