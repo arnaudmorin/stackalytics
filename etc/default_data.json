@@ -28772,6 +28772,18 @@
             "emails": ["hbbfxyxxgcljx@163.com", "liujinxin@inspur.com"]
         },
         {
+           "launchpad_id": "scnp89",
+           "github_id": "sujeetch",
+           "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sujeet Chaudhary",
+            "emails": ["scnp89@gmail.com", "sc283c@att.com", "sujeet.choudary@att.com"]
+        },
+        {
             "launchpad_id": "scollins",
             "companies": [
                 {
