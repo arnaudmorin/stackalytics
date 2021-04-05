@@ -23143,6 +23143,17 @@
             "emails": ["mudit.simlote@dell.com"]
         },
         {
+            "launchpad_id": "muesono",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Marcelo Uesono",
+            "emails": ["marcelouesono@gmail.com", "muesono@daitan.com"]
+        },
+        {
             "launchpad_id": "multi-task",
             "companies": [
                 {
