@@ -9769,11 +9769,15 @@
             "companies": [
                 {
                     "company_name": "NetApp",
+                    "end_date": "2021-Apr-09"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Douglas Viroel",
-            "emails": ["viroel@gmail.com", "douglas.viroel@fit-tecnologia.org.br", "douglas.viroel@netapp.com"]
+            "emails": ["viroel@gmail.com", "douglas.viroel@fit-tecnologia.org.br", "douglas.viroel@netapp.com", "dviroel@redhat.com"]
         },
         {
             "launchpad_id": "dweimer",
