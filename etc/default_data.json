@@ -34337,6 +34337,17 @@
             "emails": ["wangyuwei@unitedstack.com", "yuweifree@gmail.com"]
         },
         {
+            "github_id": "wangyysde",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yuying Wang",
+            "emails": ["yuying.wang@daocloud.io", "net_use@bzhy.com"]
+        },
+        {
             "launchpad_id": "wangzhh",
             "companies": [
                 {
