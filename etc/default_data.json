@@ -46022,7 +46022,18 @@
         },
         {
             "release_name": "Wallaby",
-            "end_date": "2021-Apr-14",
+            "end_date": "2021-Apr-16",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
+        },
+        {
+            "release_name": "Xena",
+            "end_date": "2021-Oct-08",
             "refs": {
                 "governance": {
                     "type": "big_tent",
