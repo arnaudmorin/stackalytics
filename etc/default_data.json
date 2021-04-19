@@ -6865,6 +6865,18 @@
             "emails": ["cloudhollyb@gmail.com"]
         },
         {
+            "launchpad_id": "cloudliu",
+            "github_id": "maoyangLiu",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Maoyang Liu",
+            "emails": ["liumaoyang@inspur.com", "31834640+maoyangliu@users.noreply.github.com"]
+        },
+        {
             "launchpad_id": "clyang82",
             "companies": [
                 {
