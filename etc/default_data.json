@@ -32082,6 +32082,17 @@
             "emails": ["will.wolf@rackspace.com", "throughnothing@gmail.com"]
         },
         {
+            "launchpad_id": "tiago-primini",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tiago Primini",
+            "emails": ["primini@gmail.com", "tprimini@daitan.com"]
+        },
+        {
             "launchpad_id": "tiago.pasqualini",
             "github_id": "tpsilva",
             "companies": [
