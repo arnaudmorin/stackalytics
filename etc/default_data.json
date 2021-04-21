@@ -40489,6 +40489,10 @@
             "company_name": "Spirent"
         },
         {
+            "domains": ["springernature.com"],
+            "company_name": "Springer Nature"
+        },
+        {
             "domains": ["squareup.com"],
             "company_name": "Square, Inc"
         },
