@@ -23227,6 +23227,10 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2021-Apr-23"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
