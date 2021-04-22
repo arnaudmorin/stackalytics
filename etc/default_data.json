@@ -13126,6 +13126,25 @@
             "emails": ["heetae82.ahn@samsung.com", "irisis@gmail.com"]
         },
         {
+            "launchpad_id": "heitormatsui",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2021-Apr-09"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": "2021-Apr-22"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Heitor Matsui",
+            "emails": ["heitor.matsui@gmail.com", "hmatsui@daitan.com"]
+        },
+        {
             "github_id": "hello2mao",
             "companies": [
                 {
