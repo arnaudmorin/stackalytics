@@ -1946,6 +1946,35 @@
             "emails": ["wqlu@alauda.io", "kenan3015@gmail.com"]
         },
         {
+            "launchpad_id": "adri2000",
+            "companies": [
+                {
+                    "company_name": "Linagora",
+                    "end_date": "2013-Oct-31"
+                },
+                {
+                    "company_name": "Osones",
+                    "end_date": "2018-Oct-04"
+                },
+                {
+                    "company_name": "alter way",
+                    "end_date": "2020-Jan-31"
+                },
+                {
+                    "company_name": "Springer Nature",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adrien Cunin",
+            "emails": [
+                "adrien@adriencunin.fr",
+                "acunin@linagora.com",
+                "adrien.cunin@osones.com",
+                "adrien.cunin@alterway.fr",
+                "adrien.cunin@springernature.com"
+            ]
+        },
+        {
             "github_id": "adrian555",
             "companies": [
                 {
