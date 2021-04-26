@@ -14266,6 +14266,17 @@
             "emails": ["idzzyzzbi@gmail.com"]
         },
         {
+          "launchpad_id": "ifest1",
+          "companies": [
+              {
+                  "company_name": "Daitan Group",
+                  "end_date": null
+              }
+          ],
+          "user_name": "Iago Estrela",
+          "emails": ["hiagoestrelas@gmail.com", "iago_filipe@protonmail.com", "iestrela@daitan.com"]
+        },
+        {
             "launchpad_id": "igawa",
             "companies": [
                 {
