@@ -32125,11 +32125,15 @@
             "companies": [
                 {
                     "company_name": "Daitan Group",
+                    "end_date": "2021-Apr-26"
+                },
+                {
+                    "company_name": "Wind River",
                     "end_date": null
                 }
             ],
             "user_name": "Tiago Primini",
-            "emails": ["primini@gmail.com", "tprimini@daitan.com"]
+            "emails": ["primini@gmail.com", "tprimini@daitan.com", "tiagooctaviano.primini@windriver.com"]
         },
         {
             "launchpad_id": "tiago.pasqualini",
