@@ -43079,6 +43079,12 @@
             ]
         },
         {
+            "module": "cyborg",
+            "uri": "https://opendev.org/openstack/cyborg.git",
+            "organization": "openstack",
+            "launchpad_name": "openstack-cyborg"
+        },
+        {
             "module": "fuel-main",
             "aliases": [
                 "fuel"
