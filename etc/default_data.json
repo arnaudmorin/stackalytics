@@ -725,6 +725,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2021-Apr-29"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -8735,6 +8739,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -13371,6 +13379,10 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -18160,6 +18172,10 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -22759,6 +22775,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -24302,6 +24322,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -30457,6 +30481,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -36878,6 +36906,10 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2021-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
