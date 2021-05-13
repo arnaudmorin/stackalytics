@@ -10723,6 +10723,18 @@
             "emails": ["fabien.boucher@enovance.com", "fboucher@redhat.com"]
         },
         {
+            "launchpad_id": "fabiooliveira1",
+            "github_id": "fabiooliveira1",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Fabio Oliveira",
+            "emails": ["fabioaurelio1269@gmail.com", "fabio.aurelio@fit-tecnologia.org.br", "afabio@netapp.com"]
+        },
+        {
             "launchpad_id": "faizan-barmawer",
             "companies": [
                 {
