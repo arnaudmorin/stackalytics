@@ -27935,6 +27935,21 @@
             "emails": ["rsokolkov@mirantis.com"]
         },
         {
+            "launchpad_id": "rssarto",
+            "companies": [
+                {
+                    "company_name": "Porto Seguro Cia de Seguros Gerais",
+                    "end_date": "2019-Aug-05"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ricardo Sarto",
+            "emails": ["ricardo.soares.sarto@gmail.com", "rsarto@daitan.com"]
+        },
+        {
             "github_id": "rt063356",
             "companies": [
                 {
@@ -40339,6 +40354,10 @@
         {
             "domains": ["polex.com.cn"],
             "company_name": "PoleX"
+        },
+        {
+            "domains": ["portoseguro.com.br"],
+            "company_name": "Porto Seguro Cia de Seguros Gerais"
         },
         {
             "domains": ["powertech.no"],
