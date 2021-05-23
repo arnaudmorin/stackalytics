@@ -18335,6 +18335,18 @@
             "emails": ["kongxyxian2010@163.com"]
         },
         {
+            "launchpad_id": "kongxs",
+            "github_id": "kongxs",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kongxiangsheng",
+            "emails": ["2008kongxiangsheng@163.com"]
+        },
+        {
             "launchpad_id": "koti-kelam",
             "companies": [
                 {
