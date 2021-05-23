@@ -16056,6 +16056,18 @@
             "emails": ["jiasen.lin@easystack.cn", "a383839105@qq.com"]
         },
         {
+            "launchpad_id": "jiashujia",
+            "github_id": "wuli-jessica",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shujia Jia",
+            "emails": ["jiashujia@inspur.com"]
+        },
+        {
             "launchpad_id": "jiasirui",
             "companies": [
                 {
