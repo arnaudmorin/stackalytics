@@ -3825,6 +3825,25 @@
             "emails": ["arnaudleg@gmail.com"]
         },
         {
+            "launchpad_id": "arthuravila26",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2021-May-21"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": "2021-May-03"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Arthur Avila",
+            "emails": ["arthur.lb99@gmail.com", "aavila@daitan.com"]
+        },
+        {
             "launchpad_id": "arun-mithil",
             "companies": [
                 {
