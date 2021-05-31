@@ -19951,6 +19951,17 @@
             "emails": ["liuhh@awcloud.com", "lhh_youzi@163.com"]
         },
         {
+            "launchpad_id": "liuhuajie",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liuhuajie",
+            "emails": ["liu.huajie@99cloud.net", "liuhj0525@gmail.com"]
+        },
+        {
             "launchpad_id": "liujiong",
             "companies": [
                 {
