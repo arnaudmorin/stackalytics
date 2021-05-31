@@ -15296,6 +15296,17 @@
             "emails": ["zhangmei.li@easystack.cn", "javaloveme@gmail.com"]
         },
         {
+            "launchpad_id": "javanlacerda",
+            "companies": [
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Javan Lacerda",
+            "emails": ["javanjaue.tavareslacerda@windriver.com", "javkaue@gmail.com"]
+        },
+        {
             "launchpad_id": "jawon.choo",
             "companies": [
                 {
