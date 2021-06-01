@@ -45566,6 +45566,9 @@
             "organization": "airship"
         },
         {
+            "organization": "zuul"
+        },
+        {
             "organization": "cloudfoundry",
             "uri": "github://"
         },
@@ -46315,7 +46318,7 @@
         {
             "id": "all",
             "title": "OpenStack",
-            "modules": ["openstack", "airship", "unknown"]
+            "modules": ["openstack", "airship", "zuul", "unknown"]
         },
         {
             "id": "openstack",
@@ -46337,6 +46340,12 @@
             "title": "Airship",
             "child": true,
             "modules": ["airship"]
+        },
+        {
+            "id": "zuul-type",
+            "title": "Zuul",
+            "child": true,
+            "modules": ["zuul"]
         },
         {
             "id": "openstack-others",
