@@ -3746,11 +3746,15 @@
                 },
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2021-Jun-07"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Arkady Kanevsky",
-            "emails": ["arkady.kanevsky@dell.com", "arkady_kanevsky@dell.com"]
+            "emails": ["arkady.kanevsky@dell.com", "arkady_kanevsky@dell.com", "arkady.kanevsky@gmail.com"]
         },
         {
             "launchpad_id": "armando-migliaccio",
