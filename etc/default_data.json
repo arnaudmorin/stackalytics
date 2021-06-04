@@ -184,11 +184,15 @@
             "companies": [
                 {
                     "company_name": "Société Générale",
+                    "end_date": "2021-May-14"
+                },
+                {
+                    "company_name": "OVH",
                     "end_date": null
                 }
             ],
             "user_name": "Victor coutellier",
-            "emails": ["victor.coutellier@gmail.com", "alistarle@gmail.com", "victor.coutellier@socgen.com"]
+            "emails": ["victor.coutellier@gmail.com", "alistarle@gmail.com", "victor.coutellier@socgen.com", "victor.coutellier@ovhcloud.com"]
         },
         {
             "companies": [
@@ -40353,7 +40357,7 @@
             "company_name": "Osones"
         },
         {
-            "domains": ["ovh.com"],
+            "domains": ["ovh.com", "ovhcloud.com"],
             "company_name": "OVH",
             "aliases": ["OVH Group", "RunAbove"]
         },
