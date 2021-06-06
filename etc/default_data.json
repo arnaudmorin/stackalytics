@@ -46262,7 +46262,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://opendev.org/openstack/governance/raw/tag/0.8.0/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
                 }
             },
             "project": "openstack"
@@ -46317,23 +46317,17 @@
     "project_types": [
         {
             "id": "all",
-            "title": "OpenStack",
+            "title": "OpenInfra",
             "modules": ["openstack", "airship", "zuul", "unknown"]
         },
         {
             "id": "openstack",
-            "title": "Official",
+            "title": "OpenStack",
             "child": true,
             "modules": [
                 "openstack-official", "governance", "openstack-user-stories",
                 "edge-computing", "leveraging-containers-openstack"
             ]
-        },
-        {
-            "id": "tc:approved-release",
-            "title": "TC-approved",
-            "child": true,
-            "modules": ["tc:approved-release"]
         },
         {
             "id": "airship-type",
