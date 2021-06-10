@@ -31972,6 +31972,17 @@
             "emails": ["tleontov@yahoo-inc.com"]
         },
         {
+            "launchpad_id": "tcervi",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Thales Elero Cervi",
+            "emails": ["tcervi@tutanota.com", "thecervi@gmail.com", "tcervi@daitan.com", "thaleselero.cervi@windriver.com"]
+        },
+        {
             "launchpad_id": "tchaypo",
             "companies": [
                 {
