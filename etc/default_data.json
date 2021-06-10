@@ -12476,6 +12476,21 @@
             "emails": ["artem.goncharov@gmail.com", "artem.goncharov@t-systems.com"]
         },
         {
+            "launchpad_id": "gtrevisan",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": "2021-May-02"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gabriel Silva Trevisan",
+            "emails": ["gabrieltrev95@gmail.com", "gabriel.silvatrevisan@windriver.com", "gtrevisan@daitan.com"]
+        },
+        {
             "launchpad_id": "gtt116",
             "companies": [
                 {
