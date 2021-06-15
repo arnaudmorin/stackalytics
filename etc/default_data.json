@@ -36272,6 +36272,18 @@
             "emails": ["xbyan@fiberhome.com"]
         },
         {
+            "launchpad_id": "yanyhui",
+            "github_id": "yanyhui",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yanyhui",
+            "emails": ["yanyonghui01@inspur.com"]
+        },
+        {
             "launchpad_id": "yanzhiwei",
             "companies": [
                 {
