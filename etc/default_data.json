@@ -23392,6 +23392,17 @@
             "emails": ["msrinivasareddy@gmail.com", "srinivasa.muly@att.com"]
         },
         {
+            "github_id": "muma378",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yang Xiao",
+            "emails": ["muma.378@163.com", "yang.xiao@daocloud.io"]
+        },
+        {
             "launchpad_id": "munnangi2010",
             "companies": [
                 {
