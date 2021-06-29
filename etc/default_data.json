@@ -32959,6 +32959,17 @@
             "emails": ["trinath.somachi@freescale.com", "trinath.somanchi@nxp.com", "trinath.somanchi@gmail.com"]
         },
         {
+            "launchpad_id": "trisduong",
+            "companies": [
+                {
+                    "company_name": "VCCorp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Duong Tri",
+            "emails": ["trisduong.tpi@gmail.com", "tridv@bizflycloud.vn"]
+        },
+        {
             "launchpad_id": "tristanc",
             "companies": [
                 {
