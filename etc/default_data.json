@@ -25249,6 +25249,17 @@
             "emails": ["pednape@gmail.com"]
         },
         {
+            "launchpad_id": "pedrocamara",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pedro Camara",
+            "emails": ["pedro.camara@gmail.com", "pcamara@daitan.com", "pedroaugusto.alvescamara@windriver.com"]
+        },
+        {
             "launchpad_id": "peibin",
             "github_id": "peibingit",
             "companies": [
