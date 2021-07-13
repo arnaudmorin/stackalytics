@@ -27056,6 +27056,17 @@
             "emails": ["rafaelfayan@gmail.com", "rfayan@daitan.com"]
         },
         {
+            "launchpad_id": "rfluisa",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Luisa Amaral",
+            "emails": ["luisarfamaral@gmail.com", "luisa.amaral@fit-tecnologia.org.br"]
+        },
+        {
             "launchpad_id": "rh-s",
             "companies": [
                 {
