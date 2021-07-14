@@ -23000,6 +23000,17 @@
             "emails": ["mohit.motiani@intel.com"]
         },
         {
+            "launchpad_id": "monsteredc",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Xiaopeng Han",
+            "emails": ["hanxiaop@usc.edu", "hanxiaop8@outlook.com", "xiaopeng.han-iog@daocloud.io"]
+        },
+        {
             "github_id": "mooncak",
             "companies": [
                 {
