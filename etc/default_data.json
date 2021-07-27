@@ -18088,6 +18088,17 @@
             "emails": ["lkeonw0o@naver.com"]
         },
         {
+            "github_id": "kerthcet",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kante",
+            "emails": ["kerthcet@gmail.com", "na.yin@daocloud.io"]
+        },
+        {
             "launchpad_id": "kevin-carter",
             "companies": [
                 {
