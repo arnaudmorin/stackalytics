@@ -5194,6 +5194,10 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2021-Jul-28"
+                },
+                {
+                    "company_name": "Independent",
                     "end_date": null
                 }
             ],
