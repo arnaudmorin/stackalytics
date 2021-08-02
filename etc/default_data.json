@@ -43108,7 +43108,7 @@
         {
             "module": "tap-as-a-service",
             "organization": "openstack",
-            "uri": "https://opendev.org/x/tap-as-a-service.git",
+            "uri": "https://opendev.org/openstack/tap-as-a-service.git",
             "releases": [
                 {
                     "tag_to": "HEAD",
