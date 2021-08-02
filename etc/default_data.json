@@ -24142,6 +24142,17 @@
             "emails": ["zhaozhangcheng@beyondcent.com", "942507848@qq.com"]
         },
         {
+            "launchpad_id": "nkshirsagar",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nikhil Kshirsagar",
+            "emails": ["nikhil.kshirsagar@canonical.com", "nkshirsagar@gmail.com"]
+        },
+        {
             "github_id": "nkwangleiGIT",
             "companies": [
                 {
