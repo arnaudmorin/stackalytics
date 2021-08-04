@@ -30680,11 +30680,15 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2021-Feb-12"
+                },
+                {
+                    "company_name": "Ericsson",
                     "end_date": null
                 }
             ],
             "user_name": "Snehal Hodage",
-            "emails": ["snehal.hodage97@gmail.com", "snehal_hodage@dellteam.com"]
+            "emails": ["snehal.hodage97@gmail.com", "snehal_hodage@dellteam.com", "snehal.indrajeet.hodage@ericsson.com","sh4056@att.com"]
         },
         {
             "github_id": "sniperking1234",
