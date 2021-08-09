@@ -29919,6 +29919,17 @@
             "emails": ["zhihui.shi@easystack.cn"]
         },
         {
+            "launchpad_id": "shonphand",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shon Phand",
+            "emails": ["shonphand@gmail.com", "phand.shon.rajendra@ericsson.com", "sp812x@att.com"]
+        },
+        {
             "github_id": "shouhong",
             "companies": [
                 {
