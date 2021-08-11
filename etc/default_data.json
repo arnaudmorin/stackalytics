@@ -34920,6 +34920,17 @@
             "emails": ["wendwo.hwang@gmail.com", "wdhwang@iii.org.tw"]
         },
         {
+            "launchpad_id": "weanew",
+            "companies": [
+                {
+                    "company_name": "VTB Bank (PJSC)",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andrei Yachmenev",
+            "emails": ["weanew@yandex.ru", "ayachmenev@vtb.ru"]
+        },
+        {
             "launchpad_id": "wei-d-chen",
             "companies": [
                 {
