@@ -16572,6 +16572,17 @@
             "emails": ["joestringer@nicira.com", "joe@ovn.org"]
         },
         {
+            "launchpad_id": "joeylee666666",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "LiZekun",
+            "emails": ["2954674728@qq.com"]
+        },
+        {
             "launchpad_id": "joffrey-k",
             "companies": [
                 {
