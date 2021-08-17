@@ -1504,22 +1504,30 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Aaron Sheffield",
-            "emails": ["ajs@sheffieldfamily.net", "aaron.sheffield@att.com", "as1452@att.com"]
+            "emails": ["ajs@sheffieldfamily.net", "aaron.sheffield@att.com", "as1452@att.com", "aaron.sheffield@microsoft.com"]
         },
         {
             "launchpad_id": "ab2434",
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Anthony Bellino",
-            "emails": ["ab2434@att.com", "anthony.bellino@att.com", "anthony.bellino@us.att.com"]
+            "emails": ["ab2434@att.com", "anthony.bellino@att.com", "anthony.bellino@us.att.com", "abellino@microsoft.com"]
         },
         {
             "github_id": "abadger",
@@ -5357,11 +5365,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Bryan Strassner",
-            "emails": ["bryan.strassner@gmail.com", "bs4939@att.com"]
+            "emails": ["bryan.strassner@gmail.com", "bs4939@att.com", "bstrassner@microsoft.com"]
         },
         {
             "github_id": "bswang",
@@ -7810,11 +7822,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Dan Crank",
-            "emails": ["dan.no@att.com", "dc6350@att.com", "dc6350@us.att.com", "dan.crank@att.com"]
+            "emails": ["dan.no@att.com", "dc6350@att.com", "dc6350@us.att.com", "dan.crank@att.com", "danielcrank@microsoft.com"]
         },
         {
             "launchpad_id": "dane-fichter",
@@ -7987,13 +8003,17 @@
           "launchpad_id": "danny-massa",
           "github_id": "dannymassa",
           "companies": [
-              {
-                  "company_name": "AT&T",
-                  "end_date": null
-              }
+            {
+                "company_name": "AT&T",
+                "end_date": "2021-Aug-08"
+            },
+            {
+                "company_name": "Microsoft",
+                "end_date": null
+            }
           ],
           "user_name": "Danny Massa",
-          "emails": ["dan.massa@outlook.com", "daniel.massa@att.com"]
+          "emails": ["dan.massa@outlook.com", "daniel.massa@att.com", "danielmassa@microsoft.com"]
         },
         {
             "launchpad_id": "danwent",
@@ -8078,11 +8098,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Darren DeJaeger",
-            "emails": ["darren.dejaeger@gmail.com", "dd118r@att.com", "dd118r@us.att.com"]
+            "emails": ["darren.dejaeger@gmail.com", "dd118r@att.com", "dd118r@us.att.com", "darren.dejaeger@microsoft.com"]
         },
         {
             "launchpad_id": "daschab",
@@ -9579,11 +9603,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Drew Walters",
-            "emails": ["drewwalters96@gmail.com", "andrew.walters@att.com", "aw442m@att.com"]
+            "emails": ["drewwalters96@gmail.com", "andrew.walters@att.com", "aw442m@att.com", "drewwalters@microsoft.com"]
         },
         {
             "launchpad_id": "dricco",
@@ -11560,11 +11588,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Gage Hugo",
-            "emails": ["gagehugo@gmail.com", "gh159m@att.com"]
+            "emails": ["gagehugo@gmail.com", "gh159m@att.com", "gagehugo@microsoft.com"]
         },
         {
             "launchpad_id": "gagupta",
@@ -14288,11 +14320,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Ian Howell",
-            "emails": ["ian.howell0@gmail.com", "ian.howell@att.com"]
+            "emails": ["ian.howell0@gmail.com", "ian.howell@att.com", "ianhowell@microsoft.com"]
         },
         {
             "launchpad_id": "ianp",
@@ -15856,11 +15892,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Jess Egler",
-            "emails": ["je808k@att.com", "jessica.egler@att.com", "jess.egler@gmail.com"]
+            "emails": ["je808k@att.com", "jessica.egler@att.com", "jess.egler@gmail.com", "jessegler@microsoft.com"]
         },
         {
             "launchpad_id": "jesseproudman",
@@ -22012,11 +22052,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Mike Bustamente",
-            "emails": ["mb100w@att.com"]
+            "emails": ["mb100w@att.com", "mbustamente@microsoft.com"]
         },
         {
             "launchpad_id": "mca-ashu4",
@@ -22248,11 +22292,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Mike Fix",
-            "emails": ["michael.fix@att.com"]
+            "emails": ["michael.fix@att.com", "michael.fix@microsoft.com"]
         },
         {
             "launchpad_id": "mf6510",
@@ -22485,11 +22533,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Michael Beaver",
-            "emails": ["michaelbeaver64@gmail.com", "mb551n@att.com", "michael.beaver@att.com"]
+            "emails": ["michaelbeaver64@gmail.com", "mb551n@att.com", "michael.beaver@att.com", "mibeaver@microsoft.com"]
         },
         {
             "launchpad_id": "michaeltchapman",
@@ -22843,11 +22895,15 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "Matt McEuen",
-            "emails": ["mm9745@att.com", "matt.mceuen@att.com", "madgin@madgin.net"]
+            "emails": ["mm9745@att.com", "matt.mceuen@att.com", "madgin@madgin.net", "mmceuen@microsoft.com"]
         },
         {
             "launchpad_id": "mmalchuk",
@@ -25730,13 +25786,17 @@
                 },
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
             "user_name": "portdirect",
             "emails": [
                 "pete@port.direct", "pete.birley@att.com", "pb269f@att.com", "petebirley@gmail.com",
-                "petebirley@googlemail.com"
+                "petebirley@googlemail.com", "petebirley@microsoft.com"
             ]
         },
         {
@@ -29401,6 +29461,10 @@
             "companies": [
                 {
                     "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
                     "end_date": null
                 }
             ],
@@ -29408,7 +29472,8 @@
             "emails": [
                 "sean.eagan@att.com",
                 "se136c@att.com",
-                "seaneagan1@gmail.com"
+                "seaneagan1@gmail.com",
+                "seaneagan@microsoft.com"
             ]
         },
         {
