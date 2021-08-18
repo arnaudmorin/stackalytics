@@ -26873,6 +26873,21 @@
             "emails": ["mmosesohn@mirantis.com", "raytrac3r@gmail.com"]
         },
         {
+            "launchpad_id": "rb560u",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "Microsoft",
+                    "end_date": null
+                }
+            ],
+            "user_name": "rb560u",
+            "emails": ["rb560u@att.com", "rick.bartra@att.com", "rickbartra@microsoft.com"]
+        },
+        {
             "launchpad_id": "rblee88",
             "companies": [
                 {
