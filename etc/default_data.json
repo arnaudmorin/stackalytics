@@ -31404,6 +31404,18 @@
             "emails": ["nstarodubtsev@mirantis.com", "starodubcevna@gmail.com"]
         },
         {
+            "launchpad_id": "stefanylopessilva",
+            "github_id": "stefanylopessilva",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Stefany Lopes",
+            "emails": ["stefany.lopes.s@gmail.com"]
+        },
+        {
             "launchpad_id": "stendulker",
             "companies": [
                 {
