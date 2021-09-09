@@ -25384,6 +25384,21 @@
             "emails": ["pednape@gmail.com"]
         },
         {
+            "launchpad_id": "pedroalmd",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": "2021-Aug-23"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pedro Almeida",
+            "emails": ["pedromonteiroa99@gmail.com", "palmeida@daitan.com", "pedro.monteiroazevedodemouraalmeida@windriver.com"]
+        },
+        {
             "launchpad_id": "pedrocamara",
             "companies": [
                 {
