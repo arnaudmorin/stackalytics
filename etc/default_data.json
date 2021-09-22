@@ -23613,6 +23613,18 @@
             "emails": ["mzawadzki@mirantis.com"]
         },
         {
+            "launchpad_id": "nahimsouza",
+            "github_id": "nahimsouza",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nahim Alves de Souza",
+            "emails": ["nahimsouza@outlook.com", "nahim.souza@fit-tecnologia.org.br","nahim@netapp.com"]
+        },
+        {
             "launchpad_id": "nakato",
             "companies": [
                 {
