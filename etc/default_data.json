@@ -20623,6 +20623,18 @@
             "emails": ["lucasagomes@gmail.com"]
         },
         {
+            "launchpad_id": "lucasmoliveira059",
+            "github_id": "lucasmoliveira059",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Lucas Oliveira",
+            "emails": ["lucasmoliveira059@gmail.com", "lucas.morais@fit-tecnologia.org.br"]
+        },
+        {
             "github_id": "lucasponce",
             "companies": [
                 {
