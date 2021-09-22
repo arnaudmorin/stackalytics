@@ -23714,6 +23714,17 @@
             "emails": ["nandini.tata@intel.com", "nandini.tata.15@gmail.com"]
         },
         {
+            "launchpad_id": "narcissujsk",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jiangshankun",
+            "emails": ["1791121094@qq.com"]
+        },
+        {
             "launchpad_id": "narender-soorineeda",
             "companies": [
                 {
