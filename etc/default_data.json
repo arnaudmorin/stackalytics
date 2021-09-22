@@ -30316,11 +30316,15 @@
             "companies": [
                 {
                     "company_name": "NetApp",
+                    "end_date": "2021-Sep-10"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Carlos Eduardo da Silva",
-            "emails": ["ces.eduardo98@gmail.com", "carlos.dasilva@fit-tecnologia.org.br", "dcarlos@netapp.com"]
+            "emails": ["ces.eduardo98@gmail.com", "carlos.dasilva@fit-tecnologia.org.br", "dcarlos@netapp.com", "cardasil@redhat.com", "carloss@redhat.com"]
         },
         {
             "launchpad_id": "simak-jan",
