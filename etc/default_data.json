@@ -45630,6 +45630,11 @@
             "module": "istio-forked",
             "organization": "cloudfoundry",
             "uri": "git://github.com/cloudfoundry/istio.git"
+        },
+        {
+            "module": "volcano",
+            "organization": "volcano",
+            "uri": "git://github.com/volcano-sh/volcano.git"
         }
     ],
     "project_sources": [
@@ -46651,7 +46656,7 @@
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
                 "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
-                "rancher", "cntt", "gardener-group"
+                "rancher", "cntt", "gardener-group", "volcano"
             ]
         },
         {
@@ -46671,6 +46676,12 @@
             "title": "Concourse",
             "child": true,
             "modules": ["concourse"]
+        },
+        {
+            "id": "volcano-type",
+            "title": "Volcano",
+            "child": true,
+            "modules": ["volcano"]
         },
         {
             "id": "cloudfoundry-group",
