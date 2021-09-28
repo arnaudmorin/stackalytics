@@ -27565,13 +27565,17 @@
                 },
                 {
                     "company_name": "Verizon Media",
+                    "end_date": "2021-Sep-01"
+                },
+                {
+                    "company_name": "Yahoo!",
                     "end_date": null
                 }
             ],
             "user_name": "Ruby Loo",
             "emails": [
                 "rloo@verizonmedia.com", "rloo@oath.com", "ruby.loo@intel.com", "opensrloo@gmail.com",
-                "rloo@yahoo-inc.com", "rlooyahoo@gmail.com"
+                "rloo@yahooinc.com", "rloo@yahoo-inc.com", "rlooyahoo@gmail.com"
             ]
         },
         {
