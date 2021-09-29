@@ -10979,6 +10979,22 @@
             "emails": ["peni@microsoft.com", "feiskyer@users.noreply.github.com"]
         },
         {
+            "github_id": "felipe84841",
+            "launchpad_id": "felipe84841",
+            "companies": [
+               {
+                    "company_name": "Daitan Group",
+                    "end_date": "2021-Aug-31"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Felipe Desiglo Ferrare",
+            "emails": ["felipe.desigloferrare@windriver.com", "fferrare@daitan.com",   "desiglo84@gmail.com"]
+        },
+        {
             "launchpad_id": "felipefutty",
             "github_id": "felipefutty",
             "companies": [
