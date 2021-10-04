@@ -46476,7 +46476,18 @@
         },
         {
             "release_name": "Xena",
-            "end_date": "2021-Oct-08",
+            "end_date": "2021-Oct-06",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
+        },
+        {
+            "release_name": "Yoga",
+            "end_date": "2021-Mar-30",
             "refs": {
                 "governance": {
                     "type": "big_tent",
