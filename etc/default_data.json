@@ -19251,6 +19251,18 @@
             "emails": ["lenka.husakova@ultimum.io"]
         },
         {
+            "launchpad_id": "leocampelo",
+            "github_id": "LeoCampelo",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Leonardo Campelo",
+            "emails": ["leocampelo16@gmail.com"]
+        },
+        {
             "launchpad_id": "leogenyhptioson",
             "companies": [
                 {
