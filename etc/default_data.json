@@ -1734,6 +1734,17 @@
             ]
         },
         {
+            "launchpad_id": "acarletti",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andrew Martins Carletti",
+            "emails": ["andrew.carletti25@gmail.com", "acarletti@daitan.com"]
+        },
+        {
             "launchpad_id": "accelazh",
             "companies": [
                 {
