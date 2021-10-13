@@ -46555,7 +46555,7 @@
         {
             "id": "all",
             "title": "OpenInfra",
-            "modules": ["openstack", "airship", "starlingx", "zuul", "opendev","unknown"]
+            "modules": ["openstack", "airship", "starlingx", "zuul", "opendev", "unknown"]
         },
         {
             "id": "openstack",
@@ -46585,16 +46585,10 @@
             "modules": ["zuul"]
         },
         {
-            "id": "opendev-type",
-            "title": "OpenDev",
-            "child": true,
-            "modules": ["opendev"]
-        },
-        {
             "id": "openstack-others",
             "title": "Others",
             "child": true,
-            "modules": ["openstack-others", "unknown"]
+            "modules": ["opendev", "openstack-others", "unknown"]
         },
         {
             "id": "cncf-group",
