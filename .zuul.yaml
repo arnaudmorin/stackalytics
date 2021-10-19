@@ -2,7 +2,6 @@
     templates:
       - docs-on-readthedocs
       - openstack-python3-ussuri-jobs
-      - openstack-python35-jobs
     vars:
       rtd_webhook_id: '47123'
 
