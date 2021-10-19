@@ -12841,11 +12841,15 @@
             "companies": [
                 {
                     "company_name": "Inspur",
+                    "end_date": "2021-Oct-15"
+                },
+                {
+                    "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "haixin",
-            "emails": ["haixin@inspur.com"]
+            "emails": ["haix09@chinatelecom.cn", "653186640@qq.com"]
         },
         {
             "launchpad_id": "halfcrazy",
