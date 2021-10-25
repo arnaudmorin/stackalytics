@@ -11588,6 +11588,17 @@
             "emails": ["gabriel@strikeawe.com"]
         },
         {
+            "launchpad_id": "gacalixto",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gabriel Calixto de Paula",
+            "emails": ["gabrielcalixto9@gmail.com", "gcalixto@daitan.com"]
+        },
+        {
             "launchpad_id": "gadzhet",
             "github_id": "gadzhet",
             "companies": [
