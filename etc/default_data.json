@@ -2002,6 +2002,17 @@
             ]
         },
         {
+            "launchpad_id": "adrian-fleio",
+            "companies": [
+                {
+                    "company_name": "Fleio",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adrian Andreias",
+            "emails": ["adrian@fleio.com"]
+        },
+        {
             "github_id": "adrian555",
             "companies": [
                 {
@@ -3118,6 +3129,17 @@
             ],
             "user_name": "Andre Beltrami",
             "emails": ["debeltrami@gmail.com", "andre.rocha@fit-tecnologia.org.br", "andrer@netapp.com"]
+        },
+        {
+            "launchpad_id": "andrecutm",
+            "companies": [
+                {
+                    "company_name": "Fleio",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Emanuel Andrecut",
+            "emails": ["emanuel.andrecut@fleio.com"]
         },
         {
             "github_id": "andreilee",
@@ -5065,6 +5087,17 @@
             ],
             "user_name": "Boden Russell",
             "emails": ["bodenvmw@gmail.com"]
+        },
+        {
+            "launchpad_id": "bogdan-fleio",
+            "companies": [
+                {
+                    "company_name": "Fleio",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bogdan Potor",
+            "emails": ["bogdan@fleio.com"]
         },
         {
             "launchpad_id": "bogdando",
@@ -14733,6 +14766,17 @@
             "emails": ["mkassawara@gmail.com"]
         },
         {
+            "launchpad_id": "ionut-3",
+            "companies": [
+                {
+                    "company_name": "Fleio",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ionuț Bîru",
+            "emails": ["ionut@fleio.com"]
+        },
+        {
             "launchpad_id": "irenab",
             "companies": [
                 {
@@ -21493,6 +21537,17 @@
             ],
             "user_name": "Margaret Frances",
             "emails": ["margaret_frances@cable.comcast.com"]
+        },
+        {
+            "launchpad_id": "marian-chelmus",
+            "companies": [
+                {
+                    "company_name": "Fleio",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Marian Chelmus",
+            "emails": ["marian.chelmus@fleio.com"]
         },
         {
             "launchpad_id": "mario-villaplana-j",
@@ -39930,6 +39985,11 @@
             "domains": ["fit-tecnologia.org.br"],
             "company_name": "FIT Instituto de Tecnologia",
             "aliases": ["FIT"]
+        },
+        {
+            "domains": ["fleio.com"],
+            "company_name": "Fleio",
+            "aliases": ["FLEIO SRL"]
         },
         {
             "domains": ["flipkart.com"],
