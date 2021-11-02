@@ -7151,11 +7151,15 @@
             "companies": [
                 {
                     "company_name": "VCCorp",
+                    "end_date": "2021-Aug-31"
+                },
+                {
+                    "company_name": "FPT Smart Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Nguyen Thanh Cong",
-            "emails": ["ntcong1705@gmail.com", "congnguyenthanh@vccorp.vn"]
+            "emails": ["ntcong1705@gmail.com", "congnguyenthanh@vccorp.vn", "congnt44@fpt.com.vn"]
         },
         {
             "launchpad_id": "connoreika",
@@ -40012,6 +40016,11 @@
         {
             "domains": ["fpt-software.com"],
             "company_name": "FPT Software",
+            "aliases": ["FPT Group"]
+        },
+        {
+            "domains": ["fptcloud.com"],
+            "company_name": "FPT Smart Cloud",
             "aliases": ["FPT Group"]
         },
         {
