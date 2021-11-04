@@ -26434,6 +26434,17 @@
             "emails": ["wangqi@vmware.com"]
         },
         {
+            "launchpad_id": "qianbing",
+            "companies": [
+                {
+                    "company_name": "China Telecom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "qianbing",
+            "emails": ["qianb09@chinatelecom.cn", "qb_qiangui@163.com"]
+        },
+        {
             "launchpad_id": "qianh",
             "companies": [
                 {
