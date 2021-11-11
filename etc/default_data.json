@@ -3739,11 +3739,15 @@
             "companies": [
                 {
                     "company_name": "VCCorp",
+                    "end_date": "2021-May-01"
+                },
+                {
+                    "company_name": "FPT Smart Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Chung Phan",
-            "emails": ["chungphan7819@gmail.com", "chungphanhuuthanh@vccorp.vn"]
+            "emails": ["chungphan7819@gmail.com", "chungphanhuuthanh@vccorp.vn", "chungpht2@fpt.com.vn"]
         },
         {
             "launchpad_id": "areial",
