@@ -23253,7 +23253,7 @@
                 }
             ],
             "user_name": "Xiaopeng Han",
-            "emails": ["hanxiaop@usc.edu", "hanxiaop8@outlook.com", "xiaopeng.han-iog@daocloud.io", "hanxiaop@google.com"]
+            "emails": ["hanxiaop@usc.edu", "hanxiaop8@outlook.com", "xiaopeng.han-iog@daocloud.io", "hanxiaop@google.com", "michael.han@daocloud.io", "hanxiaop8@gmail.com"]
         },
         {
             "github_id": "mooncak",
@@ -24267,6 +24267,17 @@
             ],
             "user_name": "Nicolas Bock",
             "emails": ["nicolasbock@gmail.com", "nicolas.bock@suse.com", "nicolas.bock@canonical.com"]
+        },
+        {
+            "github_id": "nicole-lihui",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nicole Li",
+            "emails": ["nicolelihui@outlook.com", "nicole.li@daocloud.io"]
         },
         {
             "launchpad_id": "nijaba",
