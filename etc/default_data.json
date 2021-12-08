@@ -26725,6 +26725,17 @@
             "emails": ["raddaoui.ala@intel.com"]
         },
         {
+            "launchpad_id": "rafaelvfalc",
+            "companies": [
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rafael Falcao",
+            "emails": ["rafael15falcao@hotmail.com", "rafael.vieirafalcao@windriver.com", "rfalcao@daitan.com"]
+        },
+        {
             "launchpad_id": "rahmu",
             "companies": [
                 {
