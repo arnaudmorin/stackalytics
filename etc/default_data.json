@@ -28863,6 +28863,10 @@
                 },
                 {
                     "company_name": "Canonical",
+                    "end_date": "2020-Nov-02"
+                },
+                {
+                    "company_name": "Société Générale",
                     "end_date": null
                 }
             ],
@@ -28871,7 +28875,9 @@
                 "sahid.ferdjaoui@cloudwatt.com",
                 "sahid.ferdjaoui@gmail.com",
                 "sahid.ferdjaoui@redhat.com",
-                "sahid.ferdjaoui@canonical.com"
+                "sahid.ferdjaoui@canonical.com",
+                "sahid.ferdjaoui@industrialdiscipline.com",
+                "sahid-orentino.ferdjaoui-ext@socgen.com"
             ]
         },
         {
