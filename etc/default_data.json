@@ -32491,6 +32491,17 @@
             "emails": ["dongdong.tao@canonical.com", "tdd21151186@gmail.com"]
         },
         {
+            "launchpad_id": "taoruizhe",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "taoruizhe",
+            "emails": ["taoruizhe@inspur.com", "taoruizhe100@163.com"]
+        },
+        {
             "launchpad_id": "tara-y",
             "companies": [
                 {
