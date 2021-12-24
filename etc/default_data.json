@@ -29911,6 +29911,17 @@
             "emails": ["shanker.jj@cognizant.com", "shanker.j.j@gmail.com"]
         },
         {
+            "launchpad_id": "shanyunfan",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "shanyunfan",
+            "emails": ["shanyunfan@inspur.com", "170978147@qq.com"]
+        },
+        {
             "launchpad_id": "shaohef",
             "companies": [
                 {
