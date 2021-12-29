@@ -20684,6 +20684,10 @@
             "companies": [
                 {
                     "company_name": "DaoCloud",
+                    "end_date": "2019-Nov-15"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
