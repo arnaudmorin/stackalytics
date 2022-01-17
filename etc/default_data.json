@@ -33571,6 +33571,17 @@
             "emails": ["datuanmac@gmail.com", "tuanda@vn.fujitsu.com"]
         },
         {
+            "launchpad_id": "tuhao1020",
+            "companies": [
+                {
+                    "company_name": "Alauda",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hao Tu",
+            "emails": ["haotu@alauda.io", "tuhao1020@qq.com"]
+        },
+        {
             "launchpad_id": "tungdoan",
             "companies": [
                 {
