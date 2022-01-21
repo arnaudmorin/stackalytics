@@ -21858,6 +21858,18 @@
             "emails": ["mate.lakat@citrix.com", "mlakat@suse.com"]
         },
         {
+            "launchpad_id": "matheusandrade",
+            "github_id": "MatheusAndrade777",
+            "companies": [
+                {
+                    "company_name": "FIT",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Matheus Andrade",
+            "emails": ["matheus.handrade15@gmail.com", "matheus.andrade@fit-tecnologia.org.br"]
+        },
+        {
             "launchpad_id": "mathieu-rohon",
             "companies": [
                 {
