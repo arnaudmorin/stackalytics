@@ -13433,6 +13433,22 @@
             "user_name": "Henrique Truta",
             "emails": ["henrique@lsd.ufcg.edu.br", "henriquecostatruta@gmail.com"]
         },
+      {
+        "launchpad_id": "henryhu",
+        "github_id": "huhenry",
+        "companies": [
+          {
+            "company_name": "*independent",
+            "end_date": "2022-Jan-17"
+          },
+          {
+            "company_name": "Alauda",
+            "end_date": null
+          }
+        ],
+        "user_name": "Henry Hu",
+        "emails": ["huhenry.bj@hotmail.com", "hyhu@alauda.io", "huhenry.cn@gmail.com"]
+      },
         {
             "launchpad_id": "herveberaud",
             "companies": [
