@@ -32971,6 +32971,18 @@
             "emails": ["tim.simpson@rackspace.com", "tim.simpson4@gmail.com"]
         },
         {
+            "launchpad_id": "timonwong",
+            "github_id": "timonwong",
+            "companies": [
+                {
+                    "company_name": "Alauda",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tianpeng Wang",
+            "emails": ["timon86.wang@gmail.com", "tpwang@alauda.io"]
+        },
+        {
             "launchpad_id": "tina-tang",
             "companies": [
                 {
