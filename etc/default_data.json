@@ -13379,6 +13379,17 @@
             "emails": ["heitor.matsui@gmail.com", "hmatsui@daitan.com"]
         },
         {
+            "launchpad_id": "hejunli",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hejunli",
+            "emails": ["18438695326@163.com","hejunli-s@inspur.com"]
+         },
+        {
             "github_id": "hello2mao",
             "companies": [
                 {
