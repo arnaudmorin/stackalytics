@@ -6184,6 +6184,18 @@
             "emails": ["charlie.j.llewellyn@gmail.com", "cllewellyn@ukcloud.com"]
         },
         {
+            "launchpad_id": "chateaulav",
+            "github_id": "Chateau-Lav",
+            "companies": [
+                {
+                    "company_name": "Georgia Cyber Center",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jonathan Race",
+            "emails": ["jrace@augusta.edu", "racejg@chateaulav.dev"]
+        },
+        {
             "launchpad_id": "chdzsp",
             "companies": [
                 {
@@ -39507,6 +39519,16 @@
             "domains": ["att.com", "attinteractive.com", "research.att.com"],
             "company_name": "AT&T",
             "aliases": ["AT&T Mobility", "AT&T Services"]
+        },
+        {
+            "domains": ["augusta.edu", "gacybercenter.org", "gacyberrange.org"],
+            "company_name": "Augusta University",
+            "aliases": [
+                "Augusta University",
+                "AU",
+                "Georgia Cyber Center",
+                "GCC"
+            ]
         },
         {
             "domains": ["avaya.com"],
