@@ -8665,6 +8665,17 @@
             "emails": ["fudejian1008@163.com"]
         },
         {
+            "launchpad_id": "dekehn",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Don Kehn",
+            "emails": ["dekehn@gmail.com", "dkehn@redhat.com"]
+        },
+        {
             "github_id": "demels",
             "companies": [
                 {
