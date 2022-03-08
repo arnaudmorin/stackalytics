@@ -23789,6 +23789,17 @@
             "emails": ["34544445+mxudong@users.noreply.github.com", "xudong.meng@daocloud.io"]
         },
         {
+            "github_id": "my-git9",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Li Xin",
+            "emails": ["2470603829@qq.com", "xin.li@daocloud.io"]
+        },
+        {
             "github_id": "mybesthd",
             "companies": [
                 {
