@@ -7241,12 +7241,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "VTB Bank (PJSC)",
+                    "company_name": "T1 Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Sergei Raiskii",
-            "emails": ["connoreika@gmail.com", "ssrayskiy@sberbank.ru", "raiskii@vtb.ru"]
+            "emails": ["connoreika@gmail.com", "ssrayskiy@sberbank.ru"]
         },
         {
             "launchpad_id": "coolias-lj",
@@ -14794,12 +14794,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "VTB Bank (PJSC)",
+                    "company_name": "T1 Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Ilya Popov",
-            "emails": ["ilvpopov.sbt@sberbank.ru", "ilya_p@hotmail.com", "ivpopov@vtb.ru"]
+            "emails": ["ilvpopov.sbt@sberbank.ru", "ilya_p@hotmail.com"]
         },
         {
             "launchpad_id": "ilyaalekseyev",
@@ -23277,12 +23277,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "VTB Bank (PJSC)",
+                    "company_name": "T1 Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Maksim Malchuk",
-            "emails": ["maksim.malchuk@gmail.com", "mmalchuk@mirantis.com", "malchuk.m.a@sberbank.ru", "malchuk@vtb.ru"]
+            "emails": ["maksim.malchuk@gmail.com", "mmalchuk@mirantis.com", "malchuk.m.a@sberbank.ru"]
         },
         {
             "launchpad_id": "mmaleckk",
@@ -30109,12 +30109,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "VTB Bank (PJSC)",
+                    "company_name": "T1 Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Margarita Shakhova",
-            "emails": ["mbshakhova.sbt@sberbank.ru", "shakhova.margarita@gmail.com", "mbshahova@vtb.ru"]
+            "emails": ["mbshakhova.sbt@sberbank.ru", "shakhova.margarita@gmail.com"]
         },
         {
             "launchpad_id": "shamail-tahir",
@@ -35578,12 +35578,12 @@
             "launchpad_id": "weanew",
             "companies": [
                 {
-                    "company_name": "VTB Bank (PJSC)",
+                    "company_name": "T1 Cloud",
                     "end_date": null
                 }
             ],
             "user_name": "Andrei Yachmenev",
-            "emails": ["weanew@yandex.ru", "ayachmenev@vtb.ru"]
+            "emails": ["weanew@yandex.ru"]
         },
         {
             "launchpad_id": "wei-d-chen",
@@ -41657,6 +41657,10 @@
             "aliases": ["SZZT", "深圳市证通电子股份有限公司"]
         },
         {
+            "domains": ["t1-cloud.ru"],
+            "company_name": "T1 Cloud"
+        },
+        {
             "domains": ["t2cloud.net"],
             "company_name": "t2cloud",
             "aliases": ["T2Cloud", "云图腾", "北京云途腾科技有限责任公司"]
@@ -42000,11 +42004,6 @@
             "domains": ["voereir.com"],
             "company_name": "VoerEir AB",
             "aliases": ["VoerEir", "VoerEir India Pvt Ltd"]
-        },
-        {
-            "domains": ["vtb.ru"],
-            "company_name": "VTB Bank (PJSC)",
-            "aliases": ["VTB", "VTB Bank"]
         },
         {
             "domains": ["vu.lt"],
