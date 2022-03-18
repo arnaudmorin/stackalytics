@@ -34390,6 +34390,17 @@
             "emails": ["vipuls@gmail.com", "vipul.sabhaya@hp.com", "vipul.sabhaya@hpe.com"]
         },
         {
+            "launchpad_id": "virtuous-sloth",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bruce Elrick",
+            "emails": ["bruce@elrick.ca", "bruce.elrick@gmail.com", "bruce.elrick@canonical.com"]
+        },
+        {
             "launchpad_id": "vishakha.agarwal",
             "companies": [
                 {
