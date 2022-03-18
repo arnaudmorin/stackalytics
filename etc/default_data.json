@@ -21440,6 +21440,17 @@
             "emails": ["markus.malmqvist@nokia.com"]
         },
         {
+            "launchpad_id": "malon",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "maliangyi",
+            "emails": ["maliangyi@inspur.com", "13275016575@163.com"]
+        },
+        {
             "launchpad_id": "mandarvaze",
             "companies": [
                 {
