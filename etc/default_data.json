@@ -33711,6 +33711,17 @@
             "emails": ["tmoreira@redhat.com"]
         },
         {
+            "launchpad_id": "twovi",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Thomas Martin",
+            "emails": ["tom.martin@canonical.com", "tom@twovi.com", "thomas.r.martin@gmail.com"]
+        },
+        {
             "launchpad_id": "tyr-6",
             "companies": [
                 {
