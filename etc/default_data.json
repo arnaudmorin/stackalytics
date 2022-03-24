@@ -36390,11 +36390,15 @@
             "companies": [
                 {
                     "company_name": "Inspur",
+                    "end_date": "2022-Mar-17"
+                },
+                {
+                    "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "Xuan Yandong",
-            "emails": ["xuanyandong@inspur.com"]
+            "emails": ["xuanyd09@chinatelecom.cn", "xuanyd@outlook.com"]
         },
         {
             "launchpad_id": "xuao",
