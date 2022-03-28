@@ -38226,6 +38226,17 @@
             "emails": ["zhangyanxianmail@163.com", "zhang.yanxian@zte.com.cn"]
         },
         {
+            "launchpad_id": "zhang3neolinkcom",
+            "companies": [
+                {
+                    "company_name": "TenxCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhang3neolinkcom",
+            "emails": ["shuang.zhang@tenxcloud.com", "zhang.shuang3@neolink.com"]
+        },
+        {
             "launchpad_id": "zhangbailin",
             "companies": [
                 {
