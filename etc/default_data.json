@@ -1698,6 +1698,18 @@
             "emails": ["abhishek.lekshmanan@gmail.com", "abhishek.lekshmanan@ril.com"]
         },
         {
+            "launchpad_id": "abirdcfly",
+            "github_id": "abirdcfly",
+            "companies": [
+                {
+                    "company_name": "TenxCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Abirdcfly",
+            "emails": ["fp544037857@gmail.com", "peng.fu@tenxcloud.com"]
+        },
+        {
             "launchpad_id": "abitha",
             "companies": [
                 {
