@@ -38241,11 +38241,15 @@
             "companies": [
                 {
                     "company_name": "Inspur",
+                    "end_date": "2022-Feb-24"
+                },
+                {
+                    "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "zhangboye",
-            "emails": ["zhangboye@inspur.com"]
+            "emails": ["zhangby09@chinatelecom.cn", "1257942143@qq.com"]
         },
         {
             "launchpad_id": "zhangdaolong",
