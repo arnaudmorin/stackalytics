@@ -16366,6 +16366,17 @@
             "user_name": "JiaSiRui",
             "emails": ["jiasirui@inspur.com", "jiasirui3@163.com"]
         },
+         {
+            "launchpad_id": "jiaxiaojie",
+            "companies": [
+                {
+                    "company_name": "TenxCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jiaxiaojie",
+            "emails": ["JIA.XIAOJIE@neolink.com"]
+        },
         {
             "launchpad_id": "jikyll",
             "companies": [
