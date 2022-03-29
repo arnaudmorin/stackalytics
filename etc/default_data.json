@@ -1154,6 +1154,17 @@
             "emails": ["344905745@qq.com", "lmxia@alauda.io"]
         },
         {
+          "github_id": "Cosrider",
+          "companies": [
+            {
+              "company_name": "TenxCloud",
+              "end_date": null
+            }
+          ],
+          "user_name": "xie",
+          "emails": ["cosrider@126.com"]
+        },
+        {
             "github_id": "CsatariGergely",
             "companies": [
                 {
