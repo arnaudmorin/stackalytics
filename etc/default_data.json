@@ -41401,6 +41401,10 @@
             "company_name": "Société Générale"
         },
         {
+            "domains": ["softiron.com"],
+            "company_name": "SoftIron"
+        },
+        {
             "domains": ["softlayer.com"],
             "company_name": "SoftLayer",
             "aliases": ["SoftLayer, an IBM Company"]
