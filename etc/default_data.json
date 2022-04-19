@@ -1,6 +1,6 @@
 {
     "users": [
-        {
+       {
             "companies": [
                 {
                     "company_name": "Rancher Labs",
@@ -4404,6 +4404,27 @@
             ],
             "user_name": "Yongjun Bai",
             "emails": ["byj994@163.com", "bai.yongjun@99cloud.net", "baiyj666@gmail.com"]
+        },
+        {
+           "launchpad_id": "balazs-gibizer",
+           "companies": [
+               {
+                   "company_name": "Ericsson",
+                   "end_date": "2022-Mar-26"
+               },
+               {
+                   "company_name": "Red Hat",
+                   "end_date": null
+               }
+           ],
+           "user_name": "Balazs Gibizer",
+           "emails": [
+               "gibizer@gmail.com",
+               "gibi@redhat.com",
+               "bgibizer@redhat.com",
+               "balazs.gibizer@ericsson.com",
+               "balazs.gibizer@est.tech"
+           ]
         },
         {
             "launchpad_id": "bardia-keyoumarsi",
