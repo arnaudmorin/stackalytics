@@ -44890,6 +44890,11 @@
             "uri": "https://github.com/kubernetes-sigs/kind.git"
         },
         {
+            "module": "autoscaler",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/autoscaler.git"
+        },
+        {
             "module": "kubernetes-release",
             "organization": "kubernetes-other",
             "uri": "https://github.com/kubernetes/release.git"
@@ -45845,6 +45850,46 @@
             "module": "dragonfly",
             "uri": "https://github.com/dragonflyoss/Dragonfly.git",
             "organization": "Dragonfly"
+        },
+        {
+            "module": "Dragonfly2",
+            "uri": "https://github.com/dragonflyoss/Dragonfly2.git",
+            "organization": "Dragonfly"
+        },
+        {
+            "module": "openyurt",
+            "uri": "https://github.com/openyurtio/openyurt.git",
+            "organization": "Openyurt"
+        },
+        {
+            "module": "kubeedge",
+            "uri": "https://github.com/kubeedge/kubeedge.git",
+            "organization": "Kubeedge"
+        },
+        {
+            "module": "superedge",
+            "uri": "https://github.com/superedge/superedge.git",
+            "organization": "Superedge"
+        },
+        {
+            "module": "kube-ovn",
+            "uri": "https://github.com/kubeovn/kube-ovn.git",
+            "organization": "Kube-OVN"
+        },
+        {
+            "module": "edgemesh",
+            "uri": "https://github.com/kubeedge/edgemesh.git",
+            "organization": "Edgemesh"
+        },
+        {
+            "module": "calico",
+            "uri": "https://github.com/projectcalico/calico.git",
+            "organization": "Calico"
+        },
+        {
+            "module": "karmada",
+            "uri": "https://github.com/karmada-io/karmada.git",
+            "organization": "Karmada"
         },
         {
             "module": "containerd",
