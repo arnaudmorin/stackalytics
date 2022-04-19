@@ -27287,6 +27287,17 @@
             ]
         },
         {
+            "launchpad_id": "rcia",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rodrigo Cia",
+            "emails": ["rodrigocia@hotmail.com", "rcia@daitan.com", "rodrigo.cia@encora.com", "rodrigo.cia@windriver.com"]
+        },
+        {
             "github_id": "rckclmbr",
             "companies": [
                 {
