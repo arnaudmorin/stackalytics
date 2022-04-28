@@ -6479,6 +6479,20 @@
             "emails": ["2799194073@qq.com", "tanjunchen20@gmail.com"]
         },
         {
+           "launchpad_id": "chenwei110",
+           "companies": [
+               {
+                    "company_name": "99cloud",
+                    "end_date": null
+               }
+            ],
+            "user_name": "chenwei",
+            "emails": [
+              "chen.wei@99cloud.net",
+              "jzpcoming@163.com"
+            ]
+        },
+        {
             "launchpad_id": "chenyb4",
             "companies": [
                 {
