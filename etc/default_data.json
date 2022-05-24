@@ -23072,6 +23072,33 @@
             "emails": ["ministry.96.nd@gmail.com", "botranvan@vccorp.vn"]
         },
         {
+            "launchpad_id": "minsel",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": "2015-Oct-18"
+                },
+                {
+                    "company_name": "IBM",
+                    "end_date": "2017-Aug-20"
+                },
+                {
+                    "company_name": "Huawei",
+                    "end_date": "2019-Jan-27"
+                },
+                {
+                    "company_name": "Verizon Media",
+                    "end_date": "2021-Nov-28"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Miguel Lavalle",
+            "emails": ["mlavalle@redhat.com", "miguel.lavalle@verizonmedia.com", "miguel@mlavalle.com"]
+        },
+        {
             "launchpad_id": "miriamyumi",
             "companies": [
                 {
