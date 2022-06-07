@@ -4977,6 +4977,10 @@
                 },
                 {
                     "company_name": "Alibaba",
+                    "end_date": "2022-Feb-23"
+                },
+                {
+                    "company_name": "BoCloud",
                     "end_date": null
                 }
             ],
