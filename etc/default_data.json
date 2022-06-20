@@ -45804,6 +45804,21 @@
             "uri": "https://github.com/kubernetes/kops.git"
         },
         {
+            "module": "website",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/website.git"
+        },
+        {
+            "module": "ingress-nginx",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/ingress-nginx.git"
+        },
+        {
+            "module": "klog",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/klog.git"
+        },
+        {
             "module": "longhorn",
             "organization": "longhorn",
             "uri": "https://github.com/longhorn/longhorn.git"
@@ -47381,7 +47396,8 @@
         {
             "module_group_name": "kubernetes-installers",
             "modules": [
-                "kubeadm", "kubespray", "kind", "minikube", "kops", "kubernetes-release", "cloud-provider-openstack"
+                "kubeadm", "kubespray", "kind", "minikube", "kops", "kubernetes-release", "cloud-provider-openstack",
+                "website", "ingress-nginx", "klog"
             ]
         },
         {
