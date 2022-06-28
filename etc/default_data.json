@@ -37518,6 +37518,18 @@
             "emails": ["yongle.li@gmail.com"]
         },
         {
+            "launchpad_id": "yongliang",
+            "github_id": "wongearl",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wangyongliang",
+            "emails": ["vamliang@163.com", "wangyongliang@beyondcent.com"]
+        },
+        {
             "launchpad_id": "yorik-sar",
             "companies": [
                 {
