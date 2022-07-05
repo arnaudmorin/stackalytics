@@ -36871,6 +36871,17 @@
             "emails": ["yangjf@chinatelecom.cn", "yjf1970231893@gmail.com"]
         },
         {
+            "launchpad_id": "yangjunmyfm192085",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yangjunmyfm192085",
+            "emails": ["yang.jun22@zte.com.cn"]
+        },
+        {
             "launchpad_id": "yangling",
             "user_name": "yangling",
             "companies": [
