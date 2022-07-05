@@ -36952,6 +36952,17 @@
             "emails": ["yangyanyj@chinamobile.com"]
         },
         {
+            "launchpad_id": "yangzhe",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yangshuai09",
+            "emails": ["yangshuai09@inspur.com"]
+         },
+        {
             "launchpad_id": "yanheven",
             "companies": [
                 {
