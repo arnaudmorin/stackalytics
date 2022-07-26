@@ -597,6 +597,16 @@
         {
             "companies": [
                 {
+                    "company_name": "Wind River Systems",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Fabricio Henrique Ramos",
+            "emails": ["fabriciohenrique.ramos@windriver.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Grafana Labs",
                     "end_date": null
                 }
