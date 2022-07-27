@@ -30434,7 +30434,7 @@
                     "company_name": "HPE",
                     "end_date": null
                 }
-            ],
+          ],
             "user_name": "Shivakumar M",
             "emails": ["shiva075gowda@gmail.com", "shivam@hp.com", "shiva.kum.m@hpe.com"]
         },
@@ -30454,11 +30454,15 @@
             "companies": [
                 {
                     "company_name": "Inspur",
+                    "end_date": "2020-Oct-30"
+                },
+              {
+                    "company_name": "China Telecom",
                     "end_date": null
-                }
+              }
             ],
             "user_name": "shiyawei",
-            "emails": ["shiyawei@inspur.com"]
+            "emails": ["shiyawei@inspur.com", "shiyw09@chinatelecom.cn"]
         },
         {
             "github_id": "shiyuan1992",
