@@ -13474,6 +13474,18 @@
             "user_name": "hejunli",
             "emails": ["18438695326@163.com","hejunli-s@inspur.com"]
          },
+         {
+            "launchpad_id": "helenadantas",
+            "github_id": "helenadantas",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Helena Dantas",
+            "emails": ["helenamylena@gmail.com", "helena.dantas@fit-tecnologia.org.br"]
+        },
         {
             "github_id": "hello2mao",
             "companies": [
