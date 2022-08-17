@@ -35120,11 +35120,15 @@
                 },
                 {
                     "company_name": "Fiberhome",
+                    "end_date": "2022-Jun-30"
+                },
+                {
+                    "company_name": "GienTech",
                     "end_date": null
                 }
             ],
             "user_name": "wanghao",
-            "emails": ["sxmatch1986@gmail.com", "hwang7073@fiberhome.com"]
+            "emails": ["sxmatch1986@gmail.com", "hao.wang111@gientech.com"]
         },
         {
             "github_id": "wangi1",
@@ -40447,6 +40451,11 @@
             "domains": ["ghostcloud.cn"],
             "company_name": "Ghostcloud",
             "aliases": ["Ghostcloud", "精灵云科技有限公司"]
+        },
+        {
+            "domains": ["gientech.com"],
+            "company_name": "GienTech",
+            "aliases": ["CEC GienTech Technology Co.,Ltd.", "中电金信"]
         },
         {
             "domains": ["gigaspaces.com"],
