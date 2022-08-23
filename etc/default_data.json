@@ -26797,6 +26797,18 @@
             "emails": ["qiujibao@outlook.com", "qiu.jibao@99cloud.net"]
         },
         {
+            "launchpad_id": "qlijin",
+            "github_id": "qlijin",
+            "companies": [
+                {
+                    "company_name": "UnionTech Software Technology Co., Ltd.",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jin.li",
+            "emails": ["qlijin@gmail.com"]
+        },
+        {
             "launchpad_id": "qtlu",
             "companies": [
                 {
