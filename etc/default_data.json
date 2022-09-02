@@ -32222,6 +32222,10 @@
             "companies": [
                 {
                     "company_name": "EXFO Inc.",
+                    "end_date": "2022-Aug-19"
+                },
+                {
+                    "company_name": "GitLab Inc.",
                     "end_date": null
                 }
             ],
@@ -40750,6 +40754,10 @@
         {
             "domains": ["gigaspaces.com"],
             "company_name": "GigaSpaces"
+        },
+        {
+            "domains": ["gitlab.com"],
+            "company_name": "GitLab Inc."
         },
         {
             "domains": ["globallogic.com"],
