@@ -17201,11 +17201,15 @@
             "companies": [
                 {
                     "company_name": "Inspur",
+                    "end_date": "2022-Sep-01"
+                },
+                {
+                   "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "Jorhson Deng",
-            "emails": ["dengzhaosen@inspur.com"]
+            "emails": ["Jorhson_deng@163.com"]
         },
         {
             "launchpad_id": "jose-eduardo-jr",
