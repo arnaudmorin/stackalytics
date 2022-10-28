@@ -1,6 +1,6 @@
 {
     "users": [
-       {
+        {
             "companies": [
                 {
                     "company_name": "Rancher Labs",
@@ -6231,6 +6231,17 @@
             ],
             "user_name": "Jonathan Race",
             "emails": ["jrace@augusta.edu", "racejg@chateaulav.dev"]
+        },
+        {
+            "github_id": "chaunceyjiang",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chaunceyjiang",
+            "emails": ["chaunceyjiang@gmail.com","xingyan.jiang@daocloud.io"]
         },
         {
             "launchpad_id": "chdzsp",
