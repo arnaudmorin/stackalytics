@@ -19720,6 +19720,17 @@
             "emails": ["chaoleili2@gmail.com", "lichaolei@jd.com"]
         },
         {
+            "launchpad_id": "lichenyu",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lcyuzzz",
+            "emails": ["li.chenyu@99cloud.net", "1798291787@qq.com"]
+        },
+        {
             "launchpad_id": "lichl",
             "companies": [
                 {
