@@ -2627,6 +2627,10 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2022-Feb-04"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
