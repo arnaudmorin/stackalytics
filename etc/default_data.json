@@ -27559,6 +27559,18 @@
             "emails": ["rellerreller@yahoo.com", "nathan.reller@jhuapl.edu", "nathan.s.reller@gmail.com"]
         },
         {
+            "launchpad_id": "renanpiranguinho",
+            "github_id": "renanpiranguinho",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Renan Vitor",
+            "emails": ["renanpiranguinho@gmail.com", "renan.vitordasilva@fit-tecnologia.org.br", "renanv@netapp.com"]
+        },
+        {
             "github_id": "renhwztetecs",
             "companies": [
                 {
