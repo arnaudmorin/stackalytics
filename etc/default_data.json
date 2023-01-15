@@ -5294,15 +5294,17 @@
                     "end_date": "2021-Jul-28"
                 },
                 {
-                    "company_name": "Independent",
+                    "company_name": "*independent",
+                    "end_date": "2022-Oct-23"
+                },
+                {
+                    "company_name": "Canonical",
                     "end_date": null
                 }
             ],
             "user_name": "Brian Haley",
             "emails": [
-                "brianphaley@gmail.com", "brian.haley@hp.com", "brian.haley@hpe.com", "haleyb.dev@gmail.com",
-                "bhaley@redhat.com"
-            ]
+                "brianphaley@gmail.com", "brian.haley@hp.com", "brian.haley@hpe.com", "haleyb.dev@gmail.com", "bhaley@redhat.com", "brian.haley@canonical.com" ]
         },
         {
             "launchpad_id": "brian-jf-fletcher",
