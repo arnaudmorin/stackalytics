@@ -13043,6 +13043,17 @@
             "emails": ["hrasiq@gmail.com", "halves@canonical.com"]
         },
         {
+            "launchpad_id": "han-guangyu",
+            "companies": [
+                {
+                    "company_name": "UnionTech Software Technology Co., Ltd.",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hanguangyu",
+            "emails": ["hanguangyu2@gmail.com", "hanguangyu@uniontech.com"]
+        },
+        {
             "launchpad_id": "hanchao-v",
             "companies": [
                 {
@@ -37758,6 +37769,17 @@
             ],
             "user_name": "Michael-ZTE",
             "emails": ["yuan.han@zte.com.cn"]
+        },
+        {
+            "launchpad_id": "yuanhong89",
+            "companies": [
+                {
+                    "company_name": "UnionTech Software Technology Co., Ltd.",
+                    "end_date": null
+                }
+            ],
+            "user_name": "xiangyuanhong",
+            "emails": ["xiangyuanhong08@163.com", "xiangyuanhong@uniontech.com"]
         },
         {
             "launchpad_id": "yuchengsong",
