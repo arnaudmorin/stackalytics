@@ -33113,6 +33113,17 @@
             "emails": ["will.wolf@rackspace.com", "throughnothing@gmail.com"]
         },
         {
+            "launchpad_id": "thuvh",
+            "companies": [
+                {
+                    "company_name": "FPT Smart Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hoai-Thu Vuong",
+            "emails": ["thuvh87@gmail.com", "thuvh@fpt.com.vn"]
+        },
+        {
             "launchpad_id": "tiago-primini",
             "companies": [
                 {
