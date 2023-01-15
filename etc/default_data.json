@@ -16688,6 +16688,22 @@
             "emails": ["jlwhittyos@gmail.com"]
         },
         {
+            "launchpad_id": "jm1337",
+            "github_id": "JM1",
+            "companies": [
+                {
+                    "company_name": "Hochschule Bonn-Rhein-Sieg",
+                    "end_date": "2021-Dec-31"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jakob Meng",
+            "emails": ["code@jakobmeng.de", "jakobmeng@web.de", "jmeng@redhat.com"]
+        },
+        {
             "github_id": "jmazzitelli",
             "companies": [
                 {
@@ -40523,6 +40539,10 @@
         {
             "domains": ["guardian.co.uk", "theguardian.com"],
             "company_name": "The Guardian"
+        },
+        {
+            "domains": ["h-brs.de", "hochschule-bonn-rhein-sieg.de"],
+            "company_name": "Hochschule Bonn-Rhein-Sieg"
         },
         {
             "domains": ["harmonicinc.com"],
