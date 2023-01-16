@@ -22149,11 +22149,15 @@
                 },
                 {
                     "company_name": "SUSE",
+                    "end_date": "2020-Dec-11"
+                },
+                {
+                    "company_name": "Nvidia",
                     "end_date": null
                 }
             ],
             "user_name": "Matthew Oliver",
-            "emails": ["matt@oliver.net.au", "moliver@suse.com", "matthew.oliver@suse.com"]
+            "emails": ["matt@oliver.net.au", "mpoliver@ndivia.com", "mpeteroliver@nvidia.com"]
         },
         {
             "launchpad_id": "matt-jarvis",
