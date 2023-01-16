@@ -21092,6 +21092,18 @@
             "emails": ["luizbag@gmail.com"]
         },
         {
+            "launchpad_id": "luizlooze",
+            "github_id": "FelipeLooze",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Luiz Looze",
+            "emails": ["luizfelipe.looze@gmail.com", "luiz.santos@fit-tecnologia.org.br"]
+        },
+        {
             "github_id": "lukai-cn",
             "companies": [
                 {
