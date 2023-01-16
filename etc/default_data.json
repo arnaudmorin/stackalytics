@@ -27078,6 +27078,17 @@
             "emails": ["rafael15falcao@hotmail.com", "rafael.vieirafalcao@windriver.com", "rfalcao@daitan.com"]
         },
         {
+            "launchpad_id": "raffaelacunha",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Raffaela Cunha",
+            "emails": ["raffaelacunha@gmail.com", "raffaela.cunha@flex-tecnologia.com.br"]
+        },
+        {
             "launchpad_id": "rahmu",
             "companies": [
                 {
