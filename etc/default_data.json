@@ -15578,6 +15578,14 @@
                 },
                 {
                     "company_name": "Verizon Media",
+                    "end_date": "2021-Aug-08"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2022-May-22"
+                },
+                {
+                    "company_name": "G-Research",
                     "end_date": null
                 }
             ],
@@ -15585,6 +15593,7 @@
             "emails": [
                 "jason@oldos.org",
                 "jay@jvf.cc",
+                "jay@gr-oss.io",
                 "jay.faulkner@rackspace.com",
                 "jay.faulkner@verizonmedia.com"
             ]
