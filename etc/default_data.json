@@ -16464,6 +16464,17 @@
             "emails": ["18332120276@163.com"]
         },
         {
+            "launchpad_id": "jiaqi07",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jiaqi07",
+            "emails": ["wangjiaqi07@inspur.com"]
+        },
+        {
             "github_id": "jiaqiang-cmcc",
             "companies": [
                 {
