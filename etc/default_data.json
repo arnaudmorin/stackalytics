@@ -24009,6 +24009,17 @@
             "emails": ["muraliselva.10@gmail.com", "muralidharan.selvaraj@infinite.com"]
         },
         {
+            "launchpad_id": "mustafakemalgilor",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mustafa Kemal Gilor",
+            "emails": ["mustafagilor@gmail.com", "mustafa.gilor@canonical.com"]
+        },
+        {
             "launchpad_id": "mvoelker",
             "companies": [
                 {
