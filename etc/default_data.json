@@ -24718,6 +24718,17 @@
             "emails": ["niuzhenguo@huawei.com", "zhenguo@unitedstack.com", "niu.zglinux@gmail.com"]
         },
         {
+            "launchpad_id": "niuke",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "niuke",
+            "emails": ["niuke@inspur.com", "niuke19970315@163.com"]
+        },
+        {
             "launchpad_id": "nkodreamer",
             "companies": [
                 {
