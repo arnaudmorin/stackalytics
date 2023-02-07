@@ -20738,6 +20738,17 @@
             "emails": ["liyingyjy@users.noreply.github.com"]
         },
         {
+            "launchpad_id": "lizekun02",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "LiZekun",
+            "emails": ["lizekun02@inspur.com"]
+        },
+        {
             "launchpad_id": "lizhixin",
             "companies": [
                 {
