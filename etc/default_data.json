@@ -33136,6 +33136,18 @@
             "emails": ["openstack@sheep.art.pl"]
         },
         {
+            "launchpad_id": "thiagoalvoravel",
+            "github_id": "thiagoalvoravel",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Thiago Alvoravel",
+            "emails": ["t.alvoravel@gmail.com", "thiago.andrade@fit-tecnologia.org.br"]
+        },
+        {
             "launchpad_id": "thingee",
             "companies": [
                 {
