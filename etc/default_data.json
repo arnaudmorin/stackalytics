@@ -13438,6 +13438,21 @@
             "emails": ["hbjmstone@163.com", "liulei@awcloud.com"]
         },
         {
+            "launchpad_id": "hbrito",
+            "companies": [
+                {
+                    "company_name": "Universidade Federal de Campina Grande",
+                    "end_date": "2018-Feb-02"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hugo Brito",
+            "emails": ["hugonicodemos@gmail.com", "nicodemos@lsd.ufcg.edu.br", "hugo.brito@windriver.com"]
+        },
+        {
             "launchpad_id": "hcpedh",
             "companies": [
                 {
@@ -14289,17 +14304,6 @@
             ],
             "user_name": "Hugh Saunders",
             "emails": ["hugh@wherenow.org"]
-        },
-        {
-            "launchpad_id": "hugonicodemos",
-            "companies": [
-                {
-                    "company_name": "Daitan Group",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Hugo Nicodemos",
-            "emails": ["hugonicodemos@gmail.com", "nicodemos@lsd.ufcg.edu.br", "hbrito@daitan.com"]
         },
         {
             "launchpad_id": "huifeng82",
