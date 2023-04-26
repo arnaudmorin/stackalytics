@@ -19677,6 +19677,25 @@
             ]
         },
         {
+            "launchpad_id": "ldeataid",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": "2022-Jan-10"
+                },
+                {
+                    "company_name": "Wind River",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Lucas de Ataides Barreto",
+            "emails": [
+                "lucasatab@gmail.com",
+                "lucas.barreto@encora.com",
+                "lucas.deataidesbarreto@windriver.com"
+            ]
+        },
+        {
             "github_id": "ldnvnbl",
             "companies": [
                 {
