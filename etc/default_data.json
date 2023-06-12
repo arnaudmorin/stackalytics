@@ -35493,11 +35493,15 @@
                 },
                 {
                     "company_name": "GienTech",
+                    "end_date": "2023-Apr-24"
+                },
+                {
+                    "company_name": "Fortinet",
                     "end_date": null
                 }
             ],
             "user_name": "wanghao",
-            "emails": ["sxmatch1986@gmail.com", "hao.wang111@gientech.com"]
+            "emails": ["sxmatch1986@gmail.com", "hao.wang111@gientech.com", "hwang02@fortinet.com"]
         },
         {
             "github_id": "wangi1",
