@@ -6584,6 +6584,17 @@
             "emails": ["zhiweik@gmail.com", "zhiwchen@cn.ibm.com"]
         },
         {
+            "launchpad_id": "cheriswang",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "WangYun",
+            "emails": ["wangyun@yovole.com"]
+        },
+        {
             "launchpad_id": "chestack",
             "companies": [
                 {
