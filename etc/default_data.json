@@ -25154,6 +25154,17 @@
             "emails": ["yo.zed@qq.com"]
         },
         {
+            "launchpad_id": "odeshen520",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shanjiayi",
+            "emails": ["shanjiayi@yovole.com"]
+        },
+        {
             "launchpad_id": "odonos12",
             "companies": [
                 {
