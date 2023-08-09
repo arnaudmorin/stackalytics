@@ -39829,6 +39829,17 @@
             "emails": ["chuck.short@canonical.com", "zulcss@ubuntu.com"]
         },
         {
+            "launchpad_id": "zulifeng",
+            "companies": [
+                {
+                    "company_name": "TenxCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zulifeng",
+            "emails": ["zulifeng@foxmail.com", "zulifeng@tenxcloud.com"]
+        },
+        {
             "launchpad_id": "zuohuasun",
             "companies": [
                 {
