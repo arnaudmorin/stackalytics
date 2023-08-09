@@ -31442,6 +31442,17 @@
             "emails": ["slupers@yahoo-inc.com", "slupers1@yahoo.com"]
         },
         {
+            "launchpad_id": "smachi",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Swapnil Machikar",
+            "emails": ["swapnil.machikar@dellteam.com", "swapnil.machikar@yahoo.com"]
+        },
+        {
             "launchpad_id": "smaffulli",
             "companies": [
                 {
