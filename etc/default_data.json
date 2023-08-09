@@ -25522,11 +25522,15 @@
             "companies": [
                 {
                     "company_name": "Inspur",
+                    "end_date": "2022-Jan-20"
+                },
+                {
+                    "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "acewit",
-            "emails": ["huyueheng@inspur.com"]
+            "emails": ["huyh09@chinatelecom.cn", "palagend@foxmail.com"]
         },
         {
             "launchpad_id": "palecrow",
