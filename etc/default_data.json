@@ -8068,6 +8068,21 @@
             "emails": ["daneel23@atlas.cz", "jiri.konecny@tcpcloud.eu"]
         },
         {
+            "launchpad_id": "dang2705",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2022-Jul-10"
+                },
+                {
+                    "company_name": "Viettel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dang Bui Doan",
+            "emails": ["doandang27052000@gmail.com"]
+        },
+        {
             "launchpad_id": "dangchb",
             "companies": [
                 {
