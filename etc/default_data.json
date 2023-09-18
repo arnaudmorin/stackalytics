@@ -41883,6 +41883,11 @@
             "aliases": ["SAP SE"]
         },
         {
+            "domains": ["sas.com"],
+            "company_name": "SAS Institute",
+            "aliases": ["SAS"]
+        },
+        {
             "domains": ["sbcloud.ru"],
             "company_name": "SBCloud",
             "aliases": ["SberCloud"]
