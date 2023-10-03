@@ -18136,11 +18136,15 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2023-Sep-30"
+                },
+                {
+                    "company_name": "NTT DATA",
                     "end_date": null
                 }
             ],
             "user_name": "Takashi Kajinami",
-            "emails": ["tkajinam@redhat.com", "kajinamit@nttdata.co.jp"]
+            "emails": ["kajinamit@oss.nttdata.com", "tkajinam@redhat.com", "kajinamit@nttdata.co.jp"]
         },
         {
             "launchpad_id": "kali-karthik",
