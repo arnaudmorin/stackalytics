@@ -29619,6 +29619,17 @@
             "emails": ["sandy@darksecretsoftware.com", "sandy@sandywalsh.com"]
         },
         {
+            "launchpad_id": "sangtq8",
+            "companies": [
+                {
+                    "company_name": "FPT Smart Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sang Tran",
+            "emails": ["sangtq.vn@gmail.com", "sangtq8@fpt.com.vn"]
+        },
+        {
             "launchpad_id": "sanket-lawangare-d",
             "companies": [
                 {
