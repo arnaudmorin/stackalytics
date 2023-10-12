@@ -7938,6 +7938,21 @@
             "emails": ["daidv@vn.fujitsu.com", "daidv3@viettel.com.vn", "daikk115@gmail.com"]
         },
         {
+          "launchpad_id": "daiplg",
+          "companies": [
+            {
+              "company_name": "FPT Smart Cloud",
+              "end_date": null
+            }
+          ],
+          "user_name": "daiplg",
+          "emails": [
+            "daiplg@fpt.com",
+            "daiplg@fpt.com.vn",
+            "daipham.3213@gmail.com"
+          ]
+        },
+        {
             "launchpad_id": "daisy-ycguo",
             "companies": [
                 {
