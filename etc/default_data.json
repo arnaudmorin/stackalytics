@@ -39737,6 +39737,17 @@
             "emails": ["zinoviev.ii@gmail.com"]
         },
         {
+          "launchpad_id": "zitechdev201",
+          "companies": [
+            {
+              "company_name": "FPT Smart Cloud",
+              "end_date": null
+            }
+          ],
+          "user_name": "Nguyen Ngoc Hieu",
+          "emails": ["hieunn23@fpt.com"]
+        },
+        {
             "github_id": "zjj2wry",
             "user_name": "Jiajin Zheng",
             "companies": [
