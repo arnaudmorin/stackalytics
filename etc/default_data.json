@@ -20975,6 +20975,18 @@
             "emails": ["lizhixin@awcloud.com"]
         },
         {
+            "launchpad_id": "lizhun",
+            "github_id": "freelizhun",
+            "companies": [
+                {
+                    "company_name": "Kylin Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lizhun",
+            "emails": ["freelizhun@qq.com", "lizhun@kylinos.cn"]
+        },
+        {
             "launchpad_id": "ljjjustin",
             "companies": [
                 {
