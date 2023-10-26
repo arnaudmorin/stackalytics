@@ -36413,6 +36413,18 @@
             "emails": ["wu.han@h3c.com", "wuhan9087@163.com"]
         },
         {
+            "launchpad_id": "wuhengky",
+            "github_id": "whygyc",
+            "companies": [
+                {
+                    "company_name": "Kylin Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Wu heng",
+            "emails": ["wuheng@kylinos.com", "wuheng@kylin-cloud.com"]
+        },
+        {
             "launchpad_id": "wujun",
             "companies": [
                 {
