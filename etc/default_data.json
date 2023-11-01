@@ -46546,6 +46546,11 @@
             "organization": "CoreDNS"
         },
         {
+            "module": "cri-o",
+            "uri": "https://github.com/cri-o/cri-o.git",
+            "organization": "CRI-O"
+        },
+        {
             "module": "linkerd",
             "uri": "https://github.com/linkerd/linkerd.git",
             "organization": "Linkerd"
@@ -47682,8 +47687,10 @@
             "id": "cncf-group",
             "title": "CNCF",
             "modules": [
-                "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd", "linkerd2", "longhorn"
+                "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess",
+                "coredns", "linkerd", "helm", "cni", "envoy", "jaeger",
+                "notary", "tuf", "kubernetes-installers", "dragonfly",
+                "containerd", "linkerd2", "longhorn", "cri-o"
             ]
         },
         {
@@ -47805,6 +47812,12 @@
             "title": "containerd",
             "child": true,
             "modules": ["containerd"]
+        },
+        {
+            "id": "cri-o",
+            "title": "cri-o",
+            "child": true,
+            "modules": ["cri-o"]
         },
         {
             "id": "unaffiliated",
