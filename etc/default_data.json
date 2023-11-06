@@ -13468,6 +13468,18 @@
             "emails": ["hareesh.puthalath@gmail.com", "hputhala@cisco.com"]
         },
         {
+            "launchpad_id": "hargrove930",
+            "github_id": "hargrovee",
+            "companies": [
+                {
+                    "company_name": "Kylin Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Wang huagong",
+            "emails": [ "hargrove.wat@gmail.com", "wanghuagong@kylinos.com"]
+        },
+        {
             "launchpad_id": "harlowja",
             "companies": [
                 {
