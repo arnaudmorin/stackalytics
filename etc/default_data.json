@@ -46769,6 +46769,11 @@
             "organization": "Karmada"
         },
         {
+            "module": "cilium",
+            "uri": "https://github.com/cilium/cilium.git",
+            "organization": "Cilium"
+        },
+        {
             "module": "containerd",
             "uri": "https://github.com/containerd/containerd.git",
             "organization": "containerd"
@@ -47956,7 +47961,7 @@
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess",
                 "coredns", "linkerd", "helm", "cni", "envoy", "jaeger",
                 "notary", "tuf", "kubernetes-installers", "dragonfly",
-                "containerd", "linkerd2", "longhorn", "cri-o"
+                "containerd", "linkerd2", "longhorn", "cri-o", "cilium"
             ]
         },
         {
@@ -48072,6 +48077,12 @@
             "title": "dragonfly",
             "child": true,
             "modules": ["dragonfly"]
+        },
+        {
+            "id": "cilium",
+            "title": "cilium",
+            "child": true,
+            "modules": ["cilium"]
         },
         {
             "id": "containerd",
