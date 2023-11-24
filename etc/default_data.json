@@ -29450,6 +29450,9 @@
             "companies": [
                 {
                     "company_name": "NEC",
+                    "end_date": "2023-Nov-24"
+                },
+                {   "company_name": "*independent",
                     "end_date": null
                 }
             ],
