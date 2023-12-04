@@ -6332,6 +6332,17 @@
             "emails": ["chelsea.winfree@gmail.com", "chelsea.winfree@rackspace.com"]
         },
         {
+            "launchpad_id": "chembervint",
+            "companies": [
+                {
+                    "company_name": "itkey",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Victor Chembaev",
+            "emails": ["vchembaev@itkey.com", "chembervint@gmail.com"]
+        },
+        {
             "launchpad_id": "chemikadze",
             "companies": [
                 {
