@@ -41706,6 +41706,11 @@
             "company_name": "OfferUp"
         },
         {
+            "domains": ["okestro.com", "www.okestro.com"],
+            "company_name": "Okestro",
+            "aliases": ["okestro", "OKESTRO", "OKESTRO Co."]
+        },
+        {
             "domains": ["omzcloud.vn"],
             "company_name": "OMZ Cloud",
             "aliases": ["OMZ JSC", "OMZ Cloud Vietnam"]
