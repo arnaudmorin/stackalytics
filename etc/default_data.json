@@ -5028,6 +5028,10 @@
                 },
                 {
                     "company_name": "BoCloud",
+                    "end_date": "2023-Dec-31"
+                },
+                {
+                    "company_name": "Independent",
                     "end_date": null
                 }
             ],
