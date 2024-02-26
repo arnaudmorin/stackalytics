@@ -5031,7 +5031,7 @@
                     "end_date": "2023-Dec-31"
                 },
                 {
-                    "company_name": "Independent",
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
