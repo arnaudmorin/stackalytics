@@ -8274,6 +8274,28 @@
             "emails": ["aityumentsev.sbt@sberbank.ru", "darland.maik@gmail.com"]
         },
         {
+            "launchpad_id": "darmachj",
+            "github_id": "darmach",
+            "user_name": "Jakub Darmach",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": "2020-Dec-31"
+                },
+                {
+                    "company_name": "UBS",
+                    "end_date": "2021-Sep-30"
+                },
+                {
+                    "company_name": "StackHPC",
+                    "end_date": null
+                }
+            ],
+            "emails": [
+                "jakub@stackhpc.com", "jakub.darmach@pl.ibm.com", "jakub.darmach@gmail.com"
+            ]
+        },
+        {
             "launchpad_id": "darragh-oreilly",
             "user_name": "Darragh O'Reilly",
             "companies": [
@@ -42358,6 +42380,10 @@
             "domains": ["ubisoft.com"],
             "company_name": "Ubisoft",
             "aliases": ["Ubisoft Entertainment"]
+        },
+        {
+            "domains": ["ubs.com"],
+            "company_name": "UBS"
         },
         {
             "domains": ["uchicago.edu"],
