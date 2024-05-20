@@ -41423,6 +41423,10 @@
             "aliases": ["La Honda Research Center"]
         },
         {
+            "domains": ["lambdal.com", "lambdalabs.com"],
+            "company_name": "Lambda"
+        },
+        {
             "domains": ["lavabit.com"],
             "company_name": "Lavabit"
         },
