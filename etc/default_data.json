@@ -23332,6 +23332,17 @@
             "emails": ["kent.wu@hpe.com", "kwu@suse.com"]
         },
         {
+            "launchpad_id": "minhnlh2",
+            "companies": [
+                {
+                    "company_name": "FPT Smart Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Minh Nguyen",
+            "emails": ["minh.nlh.work@gmail.com", "minhnlh2@fpt.com"]
+        },
+        {
             "launchpad_id": "minhongliang",
             "companies": [
                 {
