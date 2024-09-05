@@ -11341,6 +11341,17 @@
             "emails": ["felipefuty01@gmail.com", "felipe.novaes@fit-tecnologia.org.br"]
         },
         {
+            "launchpad_id": "felipepadilha",
+            "companies": [
+                {
+                    "company_name": "Encora",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Felipe Duellis Padilha",
+            "emails": ["felipe.padilha@encora.com", "felipepadilha@gmail.com"]
+        },
+        {
             "launchpad_id": "fellypefca",
             "companies": [
                 {
@@ -41071,6 +41082,10 @@
         {
             "domains": ["embrane.com"],
             "company_name": "Embrane"
+        },
+        {
+            "domains": ["encora.com"],
+            "company_name": "Encora"
         },
         {
             "domains": ["endocode.com"],
