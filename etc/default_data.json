@@ -19473,6 +19473,10 @@
                 },
                 {
                     "company_name": "IBM",
+                    "end_date": "2024-Oct-31"
+                },
+                {
+                    "company_name": "VexxHost",
                     "end_date": null
                 }
             ],
@@ -19482,7 +19486,7 @@
                 "dong.ma@hp.com",
                 "dong.ma@hpe.com",
                 "madongma@cn.ibm.com",
-                "madong@linux.vnet.ibm.com"
+                "dong.ma@vexxhost.com"
             ]
         },
         {
