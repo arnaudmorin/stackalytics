@@ -50,8 +50,7 @@ change them as you like.
 Project Info
 ------------
 
- * Web-site: http://stackalytics.com/
- * Alternative web-site: http://stackalytics.io/
+ * Web-site: https://stackalytics.io/
  * Source Code: https://opendev.org/x/stackalytics
  * Wiki: https://wiki.openstack.org/wiki/Stackalytics
  * Launchpad: https://launchpad.net/stackalytics
