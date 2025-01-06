@@ -3344,6 +3344,17 @@
             "emails": ["andy@andybotting.com", "andrew.botting@unimelb.edu.au", "nectar@andybotting.com", "andy.botting@ardc.edu.au"]
         },
         {
+            "launchpad_id": "anfimovir",
+            "companies": [
+                {
+                    "company_name": "Napa Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ivan Anfimov",
+            "emails": ["ivan.anfimov@ertelecom.ru", "lazekteam@gmail.com"]
+        },
+        {
             "launchpad_id": "aniketanikhindi",
             "companies": [
                 {
@@ -6899,6 +6910,17 @@
             ],
             "user_name": "chuanbo",
             "emails": ["xuchuanbo@sgitg.sgcc.com.cn", "xuchuanbo@hotmail.com"]
+        },
+        {
+            "launchpad_id": "chubinidzedr",
+            "companies": [
+                {
+                    "company_name": "Napa Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dmitriy Chubinidze",
+            "emails": ["dmitrii.chubinidze@ertelecom.ru", "dcu995@gmail.com"]
         },
         {
             "launchpad_id": "chungg",
@@ -41630,6 +41652,10 @@
             "domains": ["mynet.at"],
             "company_name": "myNET",
             "aliases": ["MYNETWORK TECHNOLOGY"]
+        },
+        {
+            "domains": ["napalabs.ru"],
+            "company_name": "Napa Labs"
         },
         {
             "domains": ["nasa.gov"],
