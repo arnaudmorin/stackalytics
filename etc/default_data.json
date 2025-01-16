@@ -35100,11 +35100,15 @@
             "companies": [
                 {
                     "company_name": "NEC",
+                    "end_date": "2024-Sep-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Vishal Manchanda",
-            "emails": ["manchandavishal143@gmail.com", "vishal.manchanda@india.nec.com"]
+            "emails": ["manchandavishal143@gmail.com"]
         },
         {
             "launchpad_id": "vishvananda",
