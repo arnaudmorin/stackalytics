@@ -3345,6 +3345,7 @@
         },
         {
             "launchpad_id": "anfimovir",
+            "zanata_id": "anfimovir",
             "companies": [
                 {
                     "company_name": "Napa Labs",
@@ -6924,6 +6925,7 @@
         },
         {
             "launchpad_id": "chubinidzedr",
+            "zanata_id": "chubinidzedr",
             "companies": [
                 {
                     "company_name": "Napa Labs",
