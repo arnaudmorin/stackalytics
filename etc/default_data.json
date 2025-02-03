@@ -35255,11 +35255,15 @@
             "companies": [
                 {
                     "company_name": "Selectel",
+                    "end_date": "2022-Feb-28"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Vlad Gusev",
-            "emails": ["vlad.esten@gmail.com", "gusev@selectel.ru"]
+            "emails": ["vlad.esten@gmail.com"]
         },
         {
             "launchpad_id": "vladik-romanovsky",
