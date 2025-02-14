@@ -8034,6 +8034,17 @@
             "emails": ["dale@catalyst-eu.net", "dale@catalyst.net.nz", "dalees@gmail.com"]
         },
         {
+            "launchpad_id": "dalekseev",
+            "companies": [
+                {
+                    "company_name": "itkey",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dmitrii Alekseev",
+            "emails": ["daleksev@itkey.com", "dmitrii.alekseev.work@gmail.com"]
+        },
+        {
             "launchpad_id": "damien-rannou",
             "companies": [
                 {
