@@ -19413,6 +19413,21 @@
             "emails": ["lilybox@yandex.ru"]
         },
         {
+            "launchpad_id": "labedz",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": "2022-Aug-01"
+                },
+                {
+                    "company_name": "CloudFerro",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Krzysztof Tomaszewski",
+            "emails": ["ktomaszewski@cloudferro.com"]
+        },
+        {
             "launchpad_id": "lachlan-evenson",
             "companies": [
                 {
@@ -40731,6 +40746,11 @@
             "domains": ["cloudenablers.com"],
             "company_name": "Cloudenablers",
             "aliases": ["CD Cloudenablers"]
+        },
+        {
+            "domains": ["cloudferro.com"],
+            "company_name": "CloudFerro",
+            "aliases": ["CloudFerro Sp. z o.o."]
         },
         {
             "domains": ["cloudfounders.com"],
