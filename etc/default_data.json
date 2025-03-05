@@ -11867,6 +11867,17 @@
             "emails": ["nicolas@boiteameuh.org", "nicolas.haller@ormuco.com"]
         },
         {
+            "launchpad_id": "gabinlan",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gabin Lanore",
+            "emails": ["gabin.lanore@ovhcloud.com", "gabin.lanore@gmail.com"]
+        },
+        {
             "launchpad_id": "gabor.antal",
             "companies": [
                 {
