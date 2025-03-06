@@ -30710,6 +30710,17 @@
             "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com", "rajatcu143@gmail.com"]
         },
         {
+            "launchpad_id": "sharique-shaikh",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sharique Shaikh",
+            "emails": ["sharik123shaikh@gmail.com", "sharique.shaikh@calsoftinc.com", "sharique.shaikh@dellteam.com"]
+        },
+        {
             "launchpad_id": "sharyhua",
             "companies": [
                 {
