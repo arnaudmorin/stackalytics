@@ -1939,6 +1939,22 @@
             "emails": ["a.vinsh1@comcast.net", "adam.vinsh@twcable.com", "adam.vinsh@hp.com"]
         },
         {
+            "launchpad_id": "adamcarthur",
+            "github_id": "Sharpz7",
+            "companies": [
+                {
+                    "company_name": "G-Research",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adam McArthur",
+            "emails": [
+                "adam@mcaq.me",
+                "adam.mcarthur62@gmail.com",
+                "adam.mcarthur@gr-oss.io"
+            ]
+        },
+        {
             "launchpad_id": "adesin-yin",
             "companies": [
                 {
