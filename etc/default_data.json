@@ -12412,6 +12412,10 @@
             "companies": [
                 {
                     "company_name": "NEC",
+                    "end_date": "2025-Mar-31"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
