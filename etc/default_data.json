@@ -7396,11 +7396,15 @@
                 },
                 {
                     "company_name": "T1 Cloud",
+                    "end_date": "2023-Apr-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Sergei Raiskii",
-            "emails": ["connoreika@gmail.com", "ssrayskiy@sberbank.ru"]
+            "emails": ["connoreika@gmail.com"]
         },
         {
             "launchpad_id": "coolias-lj",
