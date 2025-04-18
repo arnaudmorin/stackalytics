@@ -9749,6 +9749,25 @@
             "emails": ["peidongdong121@163.com", "peidongdong@hfbank.com.cn"]
         },
         {
+            "launchpad_id": "donghm",
+            "companies": [
+                {
+                    "company_name": "Fujitsu",
+                    "end_date": "2018-Oct-30"
+                },
+                {
+                    "company_name": "Viettel",
+                    "end_date": "2022-Dec-31"
+                },
+                {
+                    "company_name": "OMZ Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dong Ha Manh",
+            "emails": ["donghm@omzcloud.vn", "hamanhdongbk@gmail.com"]
+        },
+        {
             "launchpad_id": "dongj",
             "companies": [
                 {
