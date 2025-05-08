@@ -13252,11 +13252,16 @@
                 },
                 {
                     "company_name": "China Telecom",
+                    "end_date": "2025-Apr-18"
+                },
+                {
+                    "company_name": "Ant Group",
                     "end_date": null
                 }
             ],
             "user_name": "haixin",
-            "emails": ["haix09@chinatelecom.cn", "653186640@qq.com"]
+            "emails": ["haixin.hx@antgroup.com", "653186640@qq.com",
+              "haixin_haixin@qq.com"]
         },
         {
             "launchpad_id": "halfcrazy",
@@ -40538,6 +40543,11 @@
         {
             "domains": ["ansible.com"],
             "company_name": "Ansible"
+        },
+        {
+            "domains": ["antgroup.com"],
+            "company_name": "Ant Group",
+            "aliases": ["蚂蚁集团"]
         },
         {
             "domains": ["apache.org"],
