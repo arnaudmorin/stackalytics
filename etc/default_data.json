@@ -48526,6 +48526,17 @@
                 }
             },
             "project": "openstack"
+        },
+        {
+            "release_name": "2027.1 Indri",
+            "end_date": "2027-Mar-24",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
         }
     ],
     "mail_lists": [
