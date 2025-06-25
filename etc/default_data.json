@@ -29242,6 +29242,17 @@
             "emails": ["rrufanov@mirantis.com"]
         },
         {
+            "launchpad_id": "rsavvin",
+            "companies": [
+                {
+                    "company_name": "itkey",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ruslan Savvin",
+            "emails": ["rsavvin@itkey.com","rs.xperia@gmail.com"]
+        },
+        {
             "launchpad_id": "rsokolkov",
             "companies": [
                 {
