@@ -22897,6 +22897,17 @@
             "emails": ["mca.ashu4@gmail.com", "ashutosh.m2@gmail.com", "ashutosh.mishra@oneconvergence.com"]
         },
         {
+          "launchpad_id": "mchevreux",
+          "companies": [
+              {
+                  "company_name": "OVH",
+                  "end_date": null
+              }
+          ],
+          "user_name": "Matthieu Chevreux",
+          "emails": ["matthieu.chevreux@corp.ovh.net", "matthieu.chevreux@ovhcloud.com", "chevreux.matthieu@hotmail.com"]
+        },
+        {
             "launchpad_id": "mdieder",
             "zanata_id": "marcelodieder",
             "companies": [
