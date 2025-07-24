@@ -13260,12 +13260,15 @@
                 },
                 {
                     "company_name": "Ant Group",
+                    "end_date": "2025-Jul-09"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "haixin",
-            "emails": ["haixin.hx@antgroup.com", "653186640@qq.com",
-              "haixin_haixin@qq.com"]
+            "emails": ["653186640@qq.com", "haixin_haixin@qq.com"]
         },
         {
             "launchpad_id": "halfcrazy",
