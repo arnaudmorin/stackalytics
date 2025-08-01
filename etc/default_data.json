@@ -28848,6 +28848,10 @@
                 },
                 {
                     "company_name": "Canonical",
+                    "end_date": "2025-Jun-27"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
