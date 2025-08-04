@@ -41885,6 +41885,10 @@
             "company_name": "MapR"
         },
         {
+            "domains": ["maxima-int.com"],
+            "company_name": "Jsc Maxima"
+        },
+        {
             "domains": ["mellanox.com", "mellanox.co.il"],
             "company_name": "Mellanox",
             "aliases": ["Mellanox Technologies", "Mellanox.com"]
