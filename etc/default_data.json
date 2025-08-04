@@ -34000,11 +34000,19 @@
                 },
                 {
                     "company_name": "Selectel",
+                    "end_date": "2021-Jan-29"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2025-Mar-23"
+                },
+                {
+                    "company_name": "Jsc Maxima",
                     "end_date": null
                 }
             ],
             "user_name": "Tatiana Kholkina",
-            "emails": ["tlashchova@mirantis.com", "tlashchova@gmail.com", "holkina@selectel.ru"]
+            "emails": ["tlashchova@gmail.com", "t.kholkina@maxima-int.com"]
         },
         {
             "github_id": "xtmprsqzntwlfb",
