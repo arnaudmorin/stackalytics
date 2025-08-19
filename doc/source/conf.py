@@ -48,8 +48,13 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Stackalytics'
-copyright = u'2013, Mirantis Inc.'
+author = 'Mirantis Inc.'
+target_name = 'stackalytics'
+project = 'Stackalytics'
+title = 'Stackalytics'
+copyright = '2013, Mirantis Inc.'
+category = 'Miscellaneous'
+description = 'Stackalytics'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -100,7 +105,6 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme_path = ['.']
 html_theme = '_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -109,11 +113,11 @@ html_theme = '_theme'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
+html_theme_path = ['.']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Stackalytics'
+# html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -200,8 +204,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-    ('index', 'stackalyticsdoc.tex', u'Stackalytics',
-     u'Mirantis Inc.', 'manual'),
+    (master_doc, 'stackalyticsdoc.tex' + target_name + '.tex',
+     title, author, 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -230,8 +234,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'stackalytics', u'Stackalytics',
-     [u'Mirantis Inc.'], 1)
+    (master_doc, target_name,
+     title, [author], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -244,9 +248,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'Stackalytics', u'Stackalytics',
-     u'Mirantis Inc.', 'Stackalytics', 'Stackalytics',
-     'Miscellaneous'),
+    (master_doc, target_name,
+     title, author, project,
+     description, category),
 ]
 
 # Documents to append as an appendix to all manuals.
