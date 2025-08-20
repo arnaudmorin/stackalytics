@@ -38,13 +38,13 @@
                     <div style="text-indent: 10px">
                         ${hostname}:
                             {%each(i, id) ids%}
-                                <a href="http://${hostname}/#/q/owner:${id},n,z" target="_blank">${id}</a>
+                                <a href="https://${hostname}/#/q/owner:${id},n,z" target="_blank">${id}</a>
                             {%/each%}
                     </div>
                 {%/each%}
             {%/if%}
             {%if github_id %}
-                <div>Github: <a href="https://github.com/${github_id}" target="_blank">${github_id}</a></div>
+                <div>GitHub: <a href="https://github.com/${github_id}" target="_blank">${github_id}</a></div>
             {%/if%}
             {%if zanata_id %}
                 <div>Zanata: <a href="https://translate.openstack.org/profile/view/${zanata_id}" target="_blank">${zanata_id}</a></div>
