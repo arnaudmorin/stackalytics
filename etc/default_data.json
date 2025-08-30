@@ -42073,6 +42073,15 @@
             ]
         },
         {
+            "domains": [
+                "nttdocomo.com", "docomolab-euro.com"
+            ],
+            "company_name": "NTT DOCOMO, Inc",
+            "aliases": [
+                "NTT DOCOMO", "DOCOMO EURO-LABS"
+            ]
+        },
+        {
             "domains": ["nuagenetworks.net"],
             "company_name": "Nuage Networks"
         },
