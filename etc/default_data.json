@@ -37682,10 +37682,14 @@
                 },
                 {
                     "company_name": "Troila",
+                    "end_date": "2025-May-30"
+                },
+                {
+                    "company_name": "Lenovo",
                     "end_date": null
                 }
             ],
-            "emails": ["yangjf@chinatelecom.cn", "yjf1970231893@gmail.com"]
+            "emails": ["yangjf10@lenovo.com", "yjf1970231893@gmail.com"]
         },
         {
             "launchpad_id": "yangjunmyfm192085",
