@@ -15126,6 +15126,18 @@
             "emails": ["ilkykli@gmail.com", "liky@certusnet.com.cn"]
         },
         {
+            "launchpad_id": "ilpetrov",
+            "companies":[
+                {
+                    "company_name": "Jsc Maxima",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ilia Petrov",
+            "emails": ["il.petrov@maxima-int.com"]
+
+        },
+        {
             "launchpad_id": "ilya-p",
             "companies": [
                 {
