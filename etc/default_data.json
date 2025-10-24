@@ -2078,6 +2078,17 @@
             "emails": ["adrian@fleio.com"]
         },
         {
+            "launchpad_id": "adrian-jarvis",
+            "companies": [
+                {
+                    "company_name": "Catalyst Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adrian Jarvis",
+            "emails": ["adrian.r.jarvis@gmail.com", "adrian.jarvis@catalystcloud.nz"]
+        },
+        {
             "github_id": "adrian555",
             "companies": [
                 {
@@ -5733,6 +5744,17 @@
             "emails": ["caleb@calebgroom.com", "cgroom@rackspace.com"]
         },
         {
+            "launchpad_id": "callumdickinson",
+            "companies": [
+                {
+                    "company_name": "Catalyst Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Callum Dickinson",
+            "emails": ["callum.dickinson.nz@gmail.com", "callum.dickinson@catalystcloud.nz"]
+        },
+        {
             "launchpad_id": "cao-yuan",
             "companies": [
                 {
@@ -8065,7 +8087,7 @@
             "launchpad_id": "dalees",
             "companies": [
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": null
                 }
             ],
@@ -9801,7 +9823,7 @@
             "launchpad_id": "donovan-4",
             "companies": [
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": null
                 }
             ],
@@ -11578,7 +11600,7 @@
                     "end_date": "2014-May-22"
                 },
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": null
                 }
             ],
@@ -15668,7 +15690,7 @@
             "launchpad_id": "jamespd",
             "companies": [
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": null
                 }
             ],
@@ -19122,7 +19144,7 @@
                     "end_date": "2015-Nov-17"
                 },
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": null
                 }
             ],
@@ -28806,7 +28828,7 @@
             "launchpad_id": "rocha-porto",
             "companies": [
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": "2015-Aug-01"
                 },
                 {
@@ -36943,7 +36965,7 @@
             "launchpad_id": "xavpaice",
             "companies": [
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": "2016-Nov-02"
                 },
                 {
@@ -38758,7 +38780,7 @@
                     "end_date": "2017-Apr-01"
                 },
                 {
-                    "company_name": "Catalyst IT",
+                    "company_name": "Catalyst Cloud",
                     "end_date": null
                 }
             ],
@@ -40873,8 +40895,8 @@
             "aliases": ["Canonical, Ltd.", "Ubuntu Canonical"]
         },
         {
-            "domains": ["catalyst.net.nz"],
-            "company_name": "Catalyst IT"
+            "domains": ["catalyst.net.nz", "catalyst-eu.net", "catalystcloud.nz"],
+            "company_name": "Catalyst Cloud"
         },
         {
             "domains": ["centraldesktop.com"],
