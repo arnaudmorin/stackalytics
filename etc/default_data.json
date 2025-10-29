@@ -19816,6 +19816,18 @@
             "emails": ["leandro.i.costantino@intel.com", "lcostantino@gmail.com"]
         },
         {
+            "launchpad_id": "lecharny",
+            "github_id": "elecharny",
+            "companies": [
+                {
+                    "company_name": "Worteks",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Emmanuel Lecharny",
+            "emails": ["emmlec@worteks.com", "emmanuel.lecharny@worteks.com"]
+        },
+        {
             "launchpad_id": "ledor473",
             "companies": [
                 {
@@ -35234,6 +35246,20 @@
             "emails": ["vincent.casse@ovh.net", "vincent@casse.me"]
         },
         {
+            "launchpad_id": "vincent-lequertier",
+            "github_id": "vincent-lequertier",
+            "companies": [
+                {
+                    "company_name": "Worteks",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Vincent Lequertier",
+            "emails": [
+                "vinleq@worteks.com", "vincent.lequertier@worteks.com"
+            ]
+        },
+        {
             "launchpad_id": "vincent-m",
             "companies": [
                 {
@@ -43022,6 +43048,10 @@
         {
             "domains": ["workday.com"],
             "company_name": "Workday"
+        },
+        {
+            "domains": ["worteks.com"],
+            "company_name": "Worteks"
         },
         {
             "domains": ["x-io.com", "xiostorage.com"],
