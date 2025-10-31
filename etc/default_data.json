@@ -7162,11 +7162,23 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2017-Jul-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2022-Sep-01"
+                },
+                {
+                    "company_name": "G-Research",
                     "end_date": null
                 }
             ],
             "user_name": "Clif Houck",
-            "emails": ["me@clifhouck.com", "clif.houck@rackspace.com"]
+            "emails": [
+                "me@clifhouck.com",
+                "clif@gr-oss.io",
+                "clif.houck@rackspace.com"
+            ]
         },
         {
             "launchpad_id": "clint",
