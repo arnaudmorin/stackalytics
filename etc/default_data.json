@@ -10124,6 +10124,17 @@
             ]
         },
         {
+            "launchpad_id": "dsvkrab",
+            "companies": [
+                {
+                    "company_name": "Jsc Maxima",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dmitrii Shevchenko",
+            "emails": ["dsvkrab@gmail.com", "d.shevchenko@maxima-int.com"]
+        },
+        {
             "launchpad_id": "dszumski",
             "companies": [
                 {
