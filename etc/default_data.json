@@ -48113,7 +48113,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Antelope",
+            "release_name": "2023.1 Antelope",
             "end_date": "2023-Mar-22",
             "refs": {
                 "governance": {
@@ -48124,7 +48124,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Bobcat",
+            "release_name": "2023.2 Bobcat",
             "end_date": "2023-Oct-04",
             "refs": {
                 "governance": {
@@ -48135,7 +48135,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Caracal",
+            "release_name": "2024.1 Caracal",
             "end_date": "2024-Apr-03",
             "refs": {
                 "governance": {
@@ -48146,7 +48146,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Dalmatian",
+            "release_name": "2024.2 Dalmatian",
             "end_date": "2024-Oct-02",
             "refs": {
                 "governance": {
@@ -48157,7 +48157,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Epoxy",
+            "release_name": "2025.1 Epoxy",
             "end_date": "2025-Apr-02",
             "refs": {
                 "governance": {
@@ -48168,7 +48168,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Flamingo",
+            "release_name": "2025.2 Flamingo",
             "end_date": "2025-Oct-01",
             "refs": {
                 "governance": {
@@ -48179,7 +48179,7 @@
             "project": "openstack"
         },
         {
-            "release_name": "Gazpacho",
+            "release_name": "2026.1 Gazpacho",
             "end_date": "2026-Apr-01",
             "refs": {
                 "governance": {
