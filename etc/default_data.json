@@ -42593,6 +42593,10 @@
             "company_name": "Stackinsider"
         },
         {
+            "domains": ["stackit.cloud", "mail.schwarz"],
+            "company_name": "STACKIT"
+        },
+        {
             "domains": ["stackmasters.eu"],
             "company_name": "Stackmasters"
         },
