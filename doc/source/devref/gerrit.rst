@@ -11,6 +11,6 @@ See `Gerrit Workflow Quick Reference`_ for information about how to get
 started using Gerrit. See `Development Workflow`_ for more detailed
 documentation on how to work with Gerrit.
 
-.. _Gerrit: http://code.google.com/p/gerrit
-.. _Development Workflow: https://docs.openstack.org/infra/manual/developers.html#development-workflow
-.. _Gerrit Workflow Quick Reference: https://docs.openstack.org/infra/manual/developers.html#development-workflow
+.. _Gerrit: https://www.gerritcodereview.com
+.. _Development Workflow: https://docs.opendev.org/opendev/infra-manual/latest/developers.html#development-workflow
+.. _Gerrit Workflow Quick Reference: https://docs.opendev.org/opendev/infra-manual/latest/gettingstarted.html
