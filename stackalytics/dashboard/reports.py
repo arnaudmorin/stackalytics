@@ -144,14 +144,41 @@ def open_reviews(module):
     }
 
 
-@blueprint.route('/contribution/<module>/<days>')
+@blueprint.route('/contribution')
 @decorators.templated()
 @decorators.exception_handler()
-def contribution(module, days):
+def contribution():
+    args = flask.request.args
+    company = args.get('company')
+    module = args.get('module')
+    release = args.get('release')
+    days = args.get('days')
+    title = "Contribution"
+    start_date = None
+    if company:
+        memory_storage_inst = vault.get_memory_storage()
+        original_name = memory_storage_inst.get_original_company_name(company)
+        title = original_name + " contribution"
+    if module:
+        title += " in " + module
+    if days:
+        title += " during the recent " + days + " days"
+        start_date = int(time.time()) - int(days) * 24 * 60 * 60
+    if release:
+        title += " during %s release"
+        if release != 'all':
+            release = release.capitalize()
+        else:
+            release = release
+            title += 's'
+        title %= release
     return {
+        'company': company,
         'module': module,
+        'release': release,
         'days': days,
-        'start_date': int(time.time()) - int(days) * 24 * 60 * 60
+        'start_date': start_date,
+        'title': title,
     }
 
 
