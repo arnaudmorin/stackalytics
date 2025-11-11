@@ -27708,6 +27708,17 @@
             "emails": ["raildo@lsd.ufcg.edu.br", "raildom@gmail.com", "rmascena@redhat.com"]
         },
         {
+            "launchpad_id": "raineszm",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zachary Raines",
+            "emails": ["dev@zmraines.com", "zachary.raines@canonical.com"]
+        },
+        {
             "launchpad_id": "rajasi-kulkarni",
             "companies": [
                 {
