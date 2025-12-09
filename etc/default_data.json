@@ -21595,6 +21595,25 @@
             "emails": ["lutao@qiniu.com", "lutaoact@hotmail.com"]
         },
         {
+            "launchpad_id": "lutimura",
+            "companies": [
+                {
+                    "company_name": "Wind River",
+                    "end_date": "2023-Nov-24"
+                },
+                {
+                    "company_name": "Magalu Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Luan Utimura",
+            "emails": [
+                "luan.utimura@gmail.com",
+                "luannunes.utimura@windriver.com",
+                "luan.utimura@luizalabs.com"
+            ]
+        },
+        {
             "launchpad_id": "luubh",
             "companies": [
                 {
@@ -41983,6 +42002,10 @@
         {
             "domains": ["lsd.ufcg.edu.br"],
             "company_name": "Universidade Federal de Campina Grande"
+        },
+        {
+            "domains": ["luizalabs.com"],
+            "company_name": "Magalu Cloud"
         },
         {
             "domains": ["lyft.com"],
