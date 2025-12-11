@@ -30019,6 +30019,18 @@
             "emails": ["samuelhellec@users.noreply.github.com"]
         },
         {
+            "github_id": "samzong",
+            "launchpad_id": "samzong",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Samzong Lu",
+            "emails": ["samzong.lu@gmail.com", "chuanjia.lu@daocloud.io", "samzonglu@gmail.com", "samzong@users.noreply.github.com", "luchuanjia@msn.com"]
+        },
+        {
             "launchpad_id": "sana-aawan",
             "companies": [
                 {
