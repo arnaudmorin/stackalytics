@@ -38213,6 +38213,17 @@
             "emails": ["yanpq@awcloud.com"]
         },
         {
+            "launchpad_id": "ycy1766",
+            "companies": [
+                {
+                    "company_name": "kt cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chanyeol yoon",
+            "emails": ["ycy1766@gmail.com"]
+        },
+        {
             "launchpad_id": "yefeng.wen",
             "companies": [
                 {
@@ -41920,6 +41931,10 @@
         {
             "domains": ["kt.com"],
             "company_name": "KT Corporation"
+        },
+        {
+            "domains": ["ktcloud.com"],
+            "company_name": "kt cloud"
         },
         {
             "domains": ["kth.se"],
