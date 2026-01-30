@@ -19431,6 +19431,17 @@
             ]
         },
         {
+            "launchpad_id": "kumar-tadepalli",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "kumart",
+            "emails": ["kumart.lead@gmail.com", "kumart@netapp.com"]
+        },
+        {
             "launchpad_id": "kunliu",
             "companies": [
                 {
