@@ -12511,7 +12511,7 @@
             "emails": ["genghanghang@xiangcloud.com.cn", "genghang888@gmail.com"]
         },
         {
-            "launchpad_id": "ghanshyammann",
+            "launchpad_id": "ghanshyammaan",
             "companies": [
                 {
                     "company_name": "NEC",
@@ -12519,12 +12519,16 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2025-Apr-27"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
-            "user_name": "Ghanshyam Mann",
+            "user_name": "Ghanshyam Maan",
             "emails": [
-                "gmann@ghanshyammann.com", "ghanshyam.mann@india.nec.com", "ghanshyammann@gmail.com",
+                "gmaan.os14@gmail.com", "gmann@ghanshyammann.com", "ghanshyam.mann@india.nec.com", "ghanshyammann@gmail.com",
                 "ghanshyam.mann@nectechnologies.in"
             ]
         },
