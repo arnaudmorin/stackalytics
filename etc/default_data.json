@@ -10854,6 +10854,21 @@
             ]
         },
         {
+            "launchpad_id": "emma-l-foley",
+            "companies": [
+                {
+                    "company_name": "Intel",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Emma Foley",
+            "emails": ["emma.l.foley@intel.com", "efoley@redhat.com"]
+        },
+        {
             "launchpad_id": "endre-karlson",
             "companies": [
                 {
