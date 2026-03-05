@@ -48319,6 +48319,17 @@
                 }
             },
             "project": "openstack"
+        },
+        {
+            "release_name": "2026.2 Hibiscus",
+            "end_date": "2026-Sep-30",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
         }
     ],
     "mail_lists": [
