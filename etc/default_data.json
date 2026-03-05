@@ -9739,6 +9739,18 @@
             "emails": ["dolph.mathews@gmail.com", "dolph.mathews@rackspace.com"]
         },
         {
+            "launchpad_id": "dominikdanelski",
+            "github_id": "Etua",
+            "companies": [
+                {
+                    "company_name": "CloudFerro",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dominik Danelski",
+            "emails": ["dominik@danelski.pl", "ddanelski@cloudferro.com"]
+        },
+        {
             "launchpad_id": "dommgifer",
             "companies": [
                 {
