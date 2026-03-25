@@ -7028,6 +7028,18 @@
             "emails": ["411299920@qq.com", "chzhang8@qq.com", "zhangchi@szzt.com.cn"]
         },
         {
+            "launchpad_id": "cidelight",
+            "github_id": "Afonne-CID",
+            "companies": [
+                {
+                    "company_name": "G-Research",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Afonne-CID",
+            "emails": ["afonnepaulc@gmail.com", "cid@gr-oss.io"]
+        },
+        {
             "launchpad_id": "cimomo",
             "github_id": "cimomo",
             "companies": [
