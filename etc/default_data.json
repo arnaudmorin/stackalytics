@@ -7772,11 +7772,15 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2026-Apr-30"
+                },
+                {
+                    "company_name": "Nvidia",
                     "end_date": null
                 }
             ],
             "user_name": "Christian Schwede",
-            "emails": ["cristian.schwede@enovance.com", "cschwede@redhat.com"]
+            "emails": ["cristian.schwede@enovance.com", "cschwede@redhat.com", "cschwede@nvidia.com", "cschwede@mailbox.org"]
         },
         {
             "launchpad_id": "csmart",
