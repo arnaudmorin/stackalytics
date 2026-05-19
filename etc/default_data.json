@@ -19166,6 +19166,17 @@
             "emails": ["kkalynovskyi@mirantis.com", "kkalinovskiy@gmail.com"]
         },
         {
+            "launchpad_id": "klement-sekera",
+            "companies": [
+                {
+                    "company_name": "Netgate",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Klement Sekera",
+            "emails": ["klement.sekera@gmail.com"]
+        },
+        {
             "launchpad_id": "klkumar",
             "companies": [
                 {
