@@ -42437,9 +42437,9 @@
             "company_name": "Osones"
         },
         {
-            "domains": ["ovh.com", "ovhcloud.com"],
+            "domains": ["ovh.com", "ovhcloud.com", "corp.ovh.com"],
             "company_name": "OVH",
-            "aliases": ["OVH Group", "RunAbove"]
+            "aliases": ["OVH Group", "RunAbove", "OVHcloud"]
         },
         {
             "domains": ["parallels.com"],
