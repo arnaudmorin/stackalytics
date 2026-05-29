@@ -26797,6 +26797,17 @@
             "emails": ["pierre.gaxatte@corp.ovh.com"]
         },
         {
+            "launchpad_id": "pierre-libeau",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pierre Libeau",
+            "emails": ["pierre.libeau@corp.ovh.com", "pierre.libeau@ovhcloud.com"]
+        },
+        {
             "launchpad_id": "pierre-padrixe",
             "companies": [
                 {
