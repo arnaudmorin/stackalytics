@@ -13190,6 +13190,17 @@
             "emails": ["guilhem.lettron@optiflows.com", "guilhem.lettron@gmail.com", "guilhem@lettron.fr"]
         },
         {
+            "launchpad_id": "guillaume-espanel",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Guillaume Espanel",
+            "emails": ["guillaume.espanel@corp.ovh.com", "guillaume.espanel@ovhcloud.com"]
+        },
+        {
             "launchpad_id": "gujun1989",
             "companies": [
                 {
