@@ -18173,6 +18173,17 @@
             "emails": ["julie.gravel@hp.com", "julie.gravel@hpe.com", "julie.gravel@suse.com", "jgravel@suse.com"]
         },
         {
+            "launchpad_id": "julien-cosmao",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Julien Cosmao",
+            "emails": ["julien.cosmao@corp.ovh.com", "julien.cosmao@ovhcloud.com"]
+        },
+        {
             "launchpad_id": "julien-marinfrisonroche",
             "companies": [
                 {
