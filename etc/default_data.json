@@ -22819,6 +22819,17 @@
             "emails": ["msherborne@gmail.com"]
         },
         {
+            "launchpad_id": "matteogisondi",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Matteo Gisondi",
+            "emails": ["matteo.gisondi@ovhcloud.com"]
+        },
+        {
             "launchpad_id": "mattf",
             "companies": [
                 {
