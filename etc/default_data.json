@@ -9998,6 +9998,17 @@
             ]
         },
         {
+            "launchpad_id": "drakkarstorm",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Enzo Dechaene",
+            "emails": ["enzo.dechaene@corp.ovh.com", "enzo.dechaene@ovhcloud.com", "enzo.dechaene76@gmail.com"]
+        },
+        {
             "launchpad_id": "dreadbird",
             "companies": [
                 {
