@@ -7971,6 +7971,17 @@
             "emails": ["54382497+d-j-eagle@users.noreply.github.com"]
         },
         {
+            "launchpad_id": "d-lukashin",
+            "companies": [
+                {
+                    "company_name": "Jsc Maxima",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Daniil Lukashin",
+            "emails": ["d.lukashin@maxima-int.com"]
+        },
+        {
             "launchpad_id": "d.golov",
             "companies": [
                 {
