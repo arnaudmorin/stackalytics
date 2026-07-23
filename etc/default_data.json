@@ -24749,6 +24749,17 @@
             "emails": ["mzawadzki@mirantis.com"]
         },
         {
+            "launchpad_id": "na-te",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nathan Malo",
+            "emails": ["nathan.malo@corp.ovh.com", "nathan.malo@gmail.com", "nathan.malo@ovhcloud.com"]
+        },
+        {
             "launchpad_id": "nahimsouza",
             "github_id": "nahimsouza",
             "companies": [
