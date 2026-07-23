@@ -1893,13 +1893,25 @@
                 },
                 {
                     "company_name": "Verizon Media",
+                    "end_date": "2021-Sep-01"
+                },
+                {
+                    "company_name": "Yahoo!",
+                    "end_date": "2024-Oct-01"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2024-Dec-01"
+                },
+                {
+                    "company_name": "GEICO",
                     "end_date": null
                 }
             ],
             "user_name": "Adam Harwell",
             "emails": [
                 "flux.adam@gmail.com", "adam.harwell@rackspace.com", "aharwell@godaddy.com", "adam.harwell@oath.com",
-                "adam.harwell@verizonmedia.com"
+                "adam.harwell@verizonmedia.com", "adamharwell@geico.com"
             ]
         },
         {
@@ -41679,6 +41691,10 @@
         {
             "domains": ["garr.it"],
             "company_name": "GARR"
+        },
+        {
+            "domains": ["geico.com"],
+            "company_name": "GEICO"
         },
         {
             "domains": ["genesiscloud.com"],
