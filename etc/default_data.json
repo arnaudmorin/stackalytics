@@ -34187,6 +34187,17 @@
             ]
         },
         {
+            "launchpad_id": "tikhonmasalov",
+            "companies": [
+                {
+                    "company_name": "Jsc Maxima",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tikhon Masalov",
+            "emails": ["t.masalov@maxima-int.com"]
+        },
+        {
             "launchpad_id": "tim-kelsey",
             "companies": [
                 {
