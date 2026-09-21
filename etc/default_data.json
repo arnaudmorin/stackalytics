@@ -20315,6 +20315,17 @@
             "emails": ["liaoishere@gmail.com", "liaopenghui@unitedstack.com", "penghui@polex.com.cn"]
         },
         {
+            "launchpad_id": "liaomaizi",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liaomaizi",
+            "emails": ["maizi.liao@canonical.com"]
+        },
+        {
             "launchpad_id": "liaozd",
             "companies": [
                 {
