@@ -10394,6 +10394,22 @@
             "emails": ["viroel@gmail.com", "douglas.viroel@fit-tecnologia.org.br", "douglas.viroel@netapp.com", "dviroel@redhat.com"]
         },
         {
+            "launchpad_id": "dwallacelf",
+            "github_id": "dwallacelf",
+            "companies": [
+                {
+                    "company_name": "Cisco Systems",
+                    "end_date": "2026-Sep-25"
+                },
+                {
+                    "company_name": "Netgate",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dave Wallace",
+            "emails": ["dwallacelf@gmail.com"]
+        },
+        {
             "launchpad_id": "dweimer",
             "companies": [
                 {
